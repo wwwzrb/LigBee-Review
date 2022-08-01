@@ -6,3 +6,4 @@ dist/
 loranode.egg-info/
 install.txt
 files.txt
+/build/*
