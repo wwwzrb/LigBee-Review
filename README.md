@@ -21,14 +21,14 @@ For USRP implementation, we use GNURadio. For COTS implementation, we adopt Simp
 ├── README.md            # Introduction of artifact
 ├── ligbee-usrp          # USRP implementation
 ├── ligbee-cots          # COTS implementation
-└── figures              # Please refer to '/figures' for all figures in README, since anonymous github may not support to display figures
+└── figures              # Please refer to '/figures' for all figures in README, since anonymous github may not support displaying figures.
 ```
 
 ## LigBee-USRP
 ### Introduction
 We implement the LigBee module at `gr-lobee-encoder`. 
 
-The GNU Radio Companion (GRC) is shown below:
+The GNU Radio Companion (GRC) of LigBee is shown below:
 <img src="/figures/usrp/ligbee-rx.png" alt="/figures/usrp/ligbee-rx.png">
 
 
@@ -69,7 +69,7 @@ One needs to install the above two modules `gr-lobee` and `gr-lobee-encoder` to 
 
 
 
-Beside, our python script to manipulate LoRa node relies on the crafted `python-loranode`.
+Beside, our python script to manipulate LoRa node relies on `python-loranode`.
 
 ## LigBee-COTS
 
@@ -99,7 +99,7 @@ We also provide `offline-demo` to show how to incorporate LigBee module using of
 
 ### Running
 
-In the `offfline-demo`, we present how `online-lib` decode chip sequency using offline trace.
+In the `offline-demo`, we present how `online-lib` decode chip sequence using offline trace.
 
 Next, we focus on how to incorporate `online-lib` into devices, taking `SimplicityStudio` and `WSTK6061B` as an example:
 
@@ -144,12 +144,12 @@ A demonstration code is shown as below:
 
 ## Acknowledgement
 
-Very grateful to the authors of the following repos, from which the USRP implementation is developed:
+The USRP implementation referred to the following repos:
 
 - Pieter Robyns [gr-lora](https://github.com/rpp0/gr-lora) [python-loranode](https://github.com/rpp0/python-loranode)
 - Matt Knight [gr-lora](https://github.com/BastilleResearch/gr-lora)
 
-Thanks to their great efforts to develop effective tools to manipulate COTS LoRa and reverse engineering LoRa.
+Very grateful to the authors of the above repo! Thanks for their great efforts to reverse engineering LoRa and develop effective tools to manipulate COTS LoRa. 
 
 We also thank the technique supporters from Silicon Labs, who provide valuable suggestions to our COTS implementation.
 
