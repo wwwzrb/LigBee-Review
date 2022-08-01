@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<block>
+  <name>lobee_py_bp</name>
+  <key>lobee_lobee_py_bp</key>
+  <category>[LoBee]</category>
+  <import>import lobee</import>
+  <make>lobee.lobee_py_bp($spreading_factor, $scale, $threshold)</make>
+  <!-- Make one 'param' node for every Parameter you want settable from the GUI.
+       Sub-nodes:
+       * name
+       * key (makes the value accessible as $keyname, e.g. in the make node)
+       * type -->
+  <param>
+    <name>Spreading Factor</name>
+    <key>spreading_factor</key>
+    <type>int</type>
+  </param>
+
+  <param>
+    <name>Scale</name>
+    <key>scale</key>
+    <type>int</type>
+  </param>
+  
+  <param>
+    <name>Threshold</name>
+    <key>threshold</key>
+    <type>int</type>
+  </param>
+
+  <!-- Make one 'sink' node per input. Sub-nodes:
+       * name (an identifier for the GUI)
+       * type
+       * vlen
+       * optional (set to 1 for optional inputs) -->
+  <sink>
+    <name>in</name>
+    <type>byte</type>
+  </sink>
+
+  <!-- Make one 'source' node per output. Sub-nodes:
+       * name (an identifier for the GUI)
+       * type
+       * vlen
+       * optional (set to 1 for optional inputs) -->
+  <source>
+    <name>out</name>
+    <type>message</type>
+  </source>
+</block>

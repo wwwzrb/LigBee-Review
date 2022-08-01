@@ -1,0 +1,8 @@
+*.pyc
+*.cfg
+samples/
+__pycache__
+dist/
+loranode.egg-info/
+install.txt
+files.txt

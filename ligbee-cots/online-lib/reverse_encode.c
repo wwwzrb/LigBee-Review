@@ -1,0 +1,247 @@
+#include "reverse_encode.h"
+
+uint8_t decoder_debug = 0;
+
+/**
+ *  Header whitening sequence
+ */
+const uint8_t prng_header[] = {
+        0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00
+};
+
+/**
+ *  Whitening sequence, CR 4/8
+ */
+const uint8_t prng_payload[] = {
+        0xff, 0xff, 0x2d, 0xff, 0x78, 0xff, 0xe1, 0xff, 0x00, 0xff, 0xd2, 0x2d, 0x55, 0x78, 0x4b, 0xe1, 0x66, 0x00, 0x1e, 0xd2, 0xff, 0x55, 0x2d, 0x4b, 0x78, 0x66, 0xe1, 0x1e, 0xd2, 0xff, 0x87, 0x2d, 0xcc, 0x78, 0xaa, 0xe1, 0xb4, 0xd2, 0x99, 0x87, 0xe1, 0xcc, 0x00, 0xaa, 0x00, 0xb4, 0x00, 0x99, 0x00, 0xe1, 0xd2, 0x00, 0x55, 0x00, 0x99, 0x00, 0xe1, 0x00, 0xd2, 0xd2, 0x87, 0x55, 0x1e, 0x99, 0x2d, 0xe1, 0x78, 0xd2, 0xe1, 0x87, 0xd2, 0x1e, 0x55, 0x2d, 0x99, 0x78, 0x33, 0xe1, 0x55, 0xd2, 0x4b, 0x55, 0x66, 0x99, 0x1e, 0x33, 0x2d, 0x55, 0x78, 0x4b, 0xe1, 0x66, 0x00, 0x1e, 0x00, 0x2d, 0x00, 0x78, 0xd2, 0xe1, 0x87, 0x00, 0xcc, 0x00, 0x78, 0x00, 0x33, 0xd2, 0x55, 0x87, 0x99, 0xcc, 0x33, 0x78, 0x55, 0x33, 0x99, 0x55, 0x33, 0x99, 0x87, 0x33, 0xcc, 0x55, 0xaa, 0x99, 0x66, 0x33, 0x1e, 0x87, 0x2d, 0xcc, 0x78, 0xaa, 0x33, 0x66, 0x55, 0x1e, 0x99, 0x2d, 0xe1, 0x78, 0x00, 0x33, 0x00, 0x55, 0xd2, 0x99, 0x55, 0xe1, 0x4b, 0x00, 0xb4, 0x00, 0x4b, 0xd2, 0x66, 0x55, 0xcc, 0x4b, 0xaa, 0xb4, 0x66, 0x4b, 0xcc, 0x66, 0xaa, 0xcc, 0xb4, 0xaa, 0x4b, 0x66, 0x66, 0xcc, 0xcc, 0xaa, 0x78, 0xb4, 0x33, 0x4b, 0x55, 0x66, 0x4b, 0xcc, 0x66, 0x78, 0xcc, 0x33, 0x78, 0x55, 0xe1, 0x4b, 0x00, 0x66, 0xd2, 0xcc, 0x87, 0x78, 0x1e, 0xe1, 0xff, 0x00, 0xff, 0xd2, 0x2d, 0x87, 0xaa, 0x1e, 0x66, 0xff, 0xcc, 0xff, 0xaa, 0x2d, 0x66, 0xaa, 0x1e, 0x66, 0xff, 0xcc, 0x2d, 0xaa, 0xaa, 0x66, 0xb4, 0x1e, 0x4b, 0xff, 0x66, 0x2d, 0x1e, 0xaa, 0x2d, 0xb4, 0xaa, 0x4b, 0xb4, 0x66, 0x99, 0x1e, 0xe1, 0x2d, 0xd2, 0xaa, 0x55, 0xb4, 0x99, 0x99, 0xe1, 0xe1, 0x00, 0xd2, 0xd2, 0x55, 0x87, 0x99, 0xcc, 0xe1, 0xaa, 0x00, 0x66, 0xd2, 0xcc, 0x87, 0x78, 0xcc, 0xe1, 0xaa, 0xd2, 0x66, 0x87, 0xcc, 0x1e, 0x78, 0xff, 0xe1, 0x2d, 0xd2, 0x78, 0x87, 0x33, 0x1e, 0x87, 0xff, 0x1e, 0x2d, 0x2d, 0x78, 0x78, 0x33, 0x33, 0x87, 0x87, 0x1e, 0xcc, 0x2d, 0x78, 0x78, 0xe1, 0x33, 0xd2, 0x87, 0x55, 0xcc, 0x4b, 0x78, 0x66, 0xe1, 0xcc, 0xd2, 0xaa, 0x55, 0xb4, 0x4b, 0x99, 0x66, 0x33, 0xcc, 0x55, 0xaa, 0x99, 0xb4, 0xe1, 0x99, 0xd2, 0x33, 0x55, 0x55, 0x4b, 0x99, 0xb4, 0xe1, 0x99, 0xd2, 0x33, 0x55, 0x55, 0x4b, 0x4b, 0xb4, 0xb4, 0x99, 0x4b, 0x33, 0xb4, 0x55, 0x99, 0x4b, 0x33, 0xb4, 0x87, 0x4b, 0x1e, 0xb4, 0x2d, 0x99, 0xaa, 0x33, 0x66, 0xc7, 0x1e, 0x1e, 0x2d, 0x2d, 0xaa, 0xaa, 0x66, 0x66, 0xcc, 0x1e, 0x78, 0x2d, 0x33, 0xaa, 0x87, 0x66, 0x1e, 0xcc, 0xff, 0x78, 0x2d, 0x33, 0xaa, 0x87, 0x66, 0x1e, 0x1e, 0xff, 0xff, 0x2d, 0xff, 0xaa, 0xff, 0x66, 0x2d, 0x1e, 0xaa, 0xff, 0xb4, 0xff, 0x99, 0xff, 0x33, 0x2d, 0x87, 0xaa, 0xcc, 0xb4, 0x78, 0x99, 0x33, 0x33, 0x87, 0x87, 0xcc, 0xcc, 0xaa, 0x78, 0xb4, 0x33, 0x4b, 0x87, 0xb4, 0xcc, 0x99, 0xaa, 0xe1, 0xb4, 0xd2, 0x4b, 0x87, 0xb4, 0xcc, 0x99, 0x78, 0xe1, 0xe1, 0xd2, 0x00, 0x87, 0x00, 0xcc, 0xd2, 0x78, 0x87, 0xe1, 0x1e, 0x00, 0x2d, 0x00, 0xaa, 0xd2, 0xb4, 0x87, 0x4b, 0x1e, 0xb4, 0x2d, 0x4b, 0xaa, 0xb4, 0xb4, 0x4b, 0x4b, 0x66, 0xb4, 0x1e, 0x4b, 0xff, 0xb4, 0xff, 0x4b, 0x2d, 0x66, 0x78, 0x1e, 0x33, 0xff, 0x55, 0xff, 0x4b, 0x2d, 0xb4, 0x78, 0x99, 0x33, 0xe1, 0x55, 0x00, 0x4b, 0xd2, 0xb4, 0x55, 0x99, 0x99, 0xe1, 0x33, 0x00, 0x87, 0xd2, 0x1e, 0x55, 0xff, 0x99, 0xff, 0x33, 0xff, 0x87, 0xff, 0x1e, 0x00, 0x00, 0x00, 0x00, 0x87, 0xe1, 0xaa, 0xcc,
+};
+
+void init_encode(struct ReverseEncoder *decoder, int *array, int sf, int cr, int len){
+    decoder->d_sf = sf;
+    decoder->d_cr = cr;
+    decoder->d_len = len;
+
+    decoder->d_packet_len = len + 3;
+    decoder->d_payload_len = len;
+    decoder->d_num_bytes = (int)(sf * ceil(len*2.0/sf) + 6);
+    decoder->d_num_symbols= (int)(8 + (4 + cr) * ceil(len * 2.0 / sf));
+
+    decoder->d_symbols_done = 0;
+    decoder->d_interleave_offset = 0;
+    decoder->d_encode_offset = 6;
+    decoder->d_packet_offset = 3;
+
+    decoder->d_packet = calloc(decoder->d_packet_len, sizeof(uint8_t));
+    decoder->d_encoded = calloc(decoder->d_num_bytes, sizeof(uint8_t));
+    decoder->d_symbols = calloc(decoder->d_num_symbols, sizeof(int));
+    memcpy(decoder->d_symbols, array, decoder->d_num_symbols *sizeof(int));
+}
+
+int reverse_encode(struct ReverseEncoder *decoder){
+    deinterleave(decoder, 1);
+    decoder->d_symbols_done += 8;
+    decoder->d_interleave_offset += 6;
+
+    while((decoder->d_symbols_done + 4 + decoder->d_cr) <=decoder->d_num_symbols){
+        decoder->d_symbols_done += deinterleave(decoder, 0);
+        decoder->d_interleave_offset += decoder->d_sf;
+    }
+
+    if(decoder_debug){
+        printf("After DI: ");
+        print_value(decoder->d_encoded, decoder->d_num_bytes);
+    }
+
+    deshuffle(decoder);
+    if(decoder_debug){
+        printf("After DS: ");
+        print_value(decoder->d_encoded, decoder->d_num_bytes);
+    }
+
+    dewhiten(decoder);
+    if(decoder_debug){
+        printf("After DW: ");
+        print_value(decoder->d_encoded, decoder->d_num_bytes);
+    }
+
+    dehamming(decoder);
+    if(decoder_debug){
+        printf("After DH: ");
+        print_value(decoder->d_packet, decoder->d_packet_len);
+    }
+
+    return 0;
+}
+
+int deinterleave(struct ReverseEncoder *decoder, uint8_t reduce_rate){
+    int phy_sf = decoder->d_sf;
+    if(reduce_rate) phy_sf -= 2;
+    const uint32_t bits_per_word = 4 + decoder->d_cr;
+    const uint32_t offset_start  = phy_sf - 1;
+
+    uint8_t *deinterleaved = calloc(phy_sf, sizeof(uint8_t));
+    int *syms = decoder->d_symbols;
+
+    if (bits_per_word > 8u) {
+        // Not sure if this can ever occur. It would imply coding rate high than 4/8 e.g. 4/9.
+       printf("[LoRa ReverseEncoder] WARNING : Deinterleaver: More than 8 bits per word. uint8_t will not be sufficient!\nBytes need to be stored in intermediate array and then packed into words_deinterleaved!");
+        exit(1);
+    }
+
+    for (uint32_t i = 0u; i < bits_per_word; i++) {
+        if(reduce_rate)
+            syms[i + decoder->d_symbols_done] = (int)(syms[i + decoder->d_symbols_done]/4);
+        syms[i + decoder->d_symbols_done] = gray_encode(syms[i + decoder->d_symbols_done]);
+
+        const uint32_t word = rotl(syms[i+decoder->d_symbols_done], i, phy_sf);
+
+        for (uint32_t j = (1u << offset_start), x = offset_start; j; j >>= 1u, x--) {
+            deinterleaved[x] |= ((word & j) != 0) << i;
+        }
+    }
+
+    for (uint32_t i = 0u; i < phy_sf; i++) {
+        decoder->d_encoded[i + decoder->d_interleave_offset] = deinterleaved[i];
+    }
+
+    return bits_per_word;
+}
+
+void deshuffle(struct ReverseEncoder *decoder) {
+    const uint8_t shuffle_pattern[] = {5, 0, 1, 2, 4, 3, 6, 7};
+    const uint32_t len =  sizeof(shuffle_pattern) / sizeof(uint8_t);
+    uint8_t result;
+
+    for (uint32_t i = 0u; i < decoder->d_num_bytes; i++) {
+        result = 0u;
+
+        for (uint32_t j = 0u; j < len; j++) {
+            result |= ((decoder->d_encoded[i] & (1u << shuffle_pattern[j])) != 0) << j;
+        }
+
+        decoder->d_encoded[i] = (uint8_t)result;
+    }
+}
+
+void dewhiten(struct ReverseEncoder *decoder){
+    int offset = decoder->d_encode_offset;
+    for(int i=offset; i<decoder->d_num_bytes;i++){
+        decoder->d_encoded[i] ^= prng_payload[i-offset];
+    }
+}
+
+void dehamming(struct ReverseEncoder *decoder){
+    int offset = decoder->d_encode_offset;
+    int len = offset + 2*decoder->d_payload_len;
+    uint8_t *dewhitened = decoder->d_encoded;
+    for (uint32_t i = 0u; i < len; i += 2u) {
+        const uint8_t d2 = (i + 1u < len) ? hamming_decode_soft_byte(dewhitened[i + 1u]) : 0u;
+        const uint8_t d1 = hamming_decode_soft_byte(dewhitened[i]);
+
+        if(i<offset)
+            decoder->d_packet[i/2] = ((d1 << 4u) | d2);
+        else
+            decoder->d_packet[i/2]  = ((d2 << 4u) | d1);
+    }
+}
+
+void release(struct ReverseEncoder *decoder){
+    if(decoder->d_packet) free(decoder->d_packet);
+    if(decoder->d_encoded) free(decoder->d_encoded);
+    if(decoder->d_symbols) free(decoder->d_symbols);
+    free(decoder);
+}
+
+void save_to_file(struct ReverseEncoder *decoder, FILE *fp){
+    fprintf(fp, "[");
+    fprintf(fp, "%X", decoder->d_packet[0]);
+    for(int i=1; i<decoder->d_packet_len;i++){
+        fprintf(fp, ", %X", decoder->d_packet[i]);
+    }
+    fprintf(fp, "]\n");
+}
+
+/**
+ *  \brief  Rotate the given bits to the left and return the result.
+ *
+ *  \param  bits
+ *          The value to rotate.
+ *  \param  count
+ *          The amount of bits to rotate (shift to left and add to right).
+ *  \param  size
+ *          The size in bits used in `bits`.
+ *          <BR>e.g. 1 byte given       => size = 8
+ *          <BR>e.g. only 6 bits in use => size = 6, and all bits higher than (1 << size-1) will be zeroed.
+ */
+uint32_t rotl(uint32_t bits, uint32_t count, const uint32_t size){
+    const uint32_t len_mask = (1u << size) - 1u;
+
+    count %= size;      // Limit bit rotate count to size
+    bits  &= len_mask;  // Limit given bits to size
+
+    return ((bits << count) & len_mask) | (bits >> (size - count));
+}
+
+uint8_t gray_encode(uint8_t symbol){
+    return symbol ^ (symbol >> 1);
+}
+
+/**
+ *  \brief  Hamming(8,4) decoding by constructing a Syndrome matrix LUT for XORing on parity errors.
+ *
+ *  \param  v
+ *          The byte to reverse_encode.
+ *  \return Returs a nibble containing the corrected data.
+ */
+uint8_t hamming_decode_soft_byte(uint8_t v) {
+    static const uint8_t H[16] = { 0x0, 0x0, 0x4, 0x0, 0x6, 0x0, 0x0, 0x2,
+                                   0x7, 0x0, 0x0, 0x3, 0x0, 0x5, 0x1, 0x0 };
+
+    // Decode
+    // Bit positions for data bits in codeword
+    const uint8_t p1  = bit(v, 0),
+            p2  = bit(v, 4),
+            p3  = bit(v, 6),
+            p4  = bit(v, 7),
+            p1c = bit(v, 2) ^ bit(v, 3) ^ bit(v, 5),
+            p2c = bit(v, 1) ^ bit(v, 2) ^ bit(v, 3),
+            p3c = bit(v, 1) ^ bit(v, 2) ^ bit(v, 5),
+            p4c = bit(v, 1) ^ bit(v, 3) ^ bit(v, 5);
+
+    const uint8_t syndrome = pack_nibble((uint8_t)(p1 != p1c), (uint8_t)(p2 != p2c), (uint8_t)(p3 != p3c), (uint8_t)(p4 != p4c));
+
+    if (syndrome) {
+        v ^= 1u << H[syndrome];
+    }
+
+    return pack_nibble( bit(v, 1), bit(v, 2), bit(v, 3), bit(v, 5));
+}
+
+/**
+ *  \brief  Select a single bit from the given byte.
+ *
+ *  \param  v
+ *          The byte to select from.
+ *  \param  i
+ *          The index to select the bit from starting from the LSB.
+ */
+uint8_t bit(const uint8_t v, const uint8_t i) {
+    return ((v >> i) & 0x01);
+}
+
+/**
+ *  \brief  Pack the given 4 bits in a nibble with: `dcba`
+ *
+ *  \param  a-d
+ *          The bits to pack with the LSB first.
+ */
+uint8_t pack_nibble(const uint8_t a, const uint8_t b, const uint8_t c, const uint8_t d) {
+    return a | (b << 1) | (c << 2) | (d << 3);
+}
+
+void print_value(const uint8_t *array, size_t len){
+    for(size_t i=0; i<len-1; i++){
+        printf("%u, ", array[i]);
+    }
+    printf("%u\n", array[len-1]);
+}

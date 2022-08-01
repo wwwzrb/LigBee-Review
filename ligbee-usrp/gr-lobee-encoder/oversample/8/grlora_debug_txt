@@ -1,0 +1,2058 @@
+Ca: 0.995985
+Cd: -0.00870439
+C:  flag=1; corr_zero_index: 63 corr_zero_max: 31; corr_one_index: 14 corr_one_max: 43 curr_index: 65; index_error 0
+S: 1000001 65 (bin 65)
+Cd: 0.00190914
+C:  flag=1; corr_zero_index: 2 corr_zero_max: 30; corr_one_index: 41 corr_one_max: 45 curr_index: 38; index_error 0
+S: 0100110 38 (bin 38)
+Cd: -0.000466206
+C:  flag=1; corr_zero_index: 11 corr_zero_max: 29; corr_one_index: 61 corr_one_max: 41 curr_index: 22; index_error 0
+S: 0010110 22 (bin 22)
+Cd: -0.00416085
+C:  flag=1; corr_zero_index: 21 corr_zero_max: 26; corr_one_index: 63 corr_one_max: 47 curr_index: 17; index_error 0
+S: 0010001 17 (bin 17)
+Cd: -0.00138938
+C:  flag=1; corr_zero_index: 21 corr_zero_max: 24; corr_one_index: 63 corr_one_max: 45 curr_index: 17; index_error 0
+S: 0010001 17 (bin 17)
+Lost sync
+Ca: 0.999944
+Cd: -0.00675783
+C:  flag=1; corr_zero_index: 61 corr_zero_max: 30; corr_one_index: 1 corr_one_max: 43 curr_index: 81; index_error 0
+S: 1010001 81 (bin 81)
+Cd: 0.000436933
+C:  flag=1; corr_zero_index: 54 corr_zero_max: 29; corr_one_index: 5 corr_one_max: 44 curr_index: 76; index_error 0
+S: 1001100 76 (bin 76)
+Cd: 0.00025163
+C:  flag=1; corr_zero_index: 61 corr_zero_max: 23; corr_one_index: 18 corr_one_max: 50 curr_index: 58; index_error 0
+S: 0111010 58 (bin 58)
+Cd: -0.00115159
+C:  flag=1; corr_zero_index: 10 corr_zero_max: 27; corr_one_index: 56 corr_one_max: 44 curr_index: 27; index_error 0
+S: 0011011 27 (bin 27)
+Cd: 0.00090322
+C:  flag=1; corr_zero_index: 59 corr_zero_max: 28; corr_one_index: 13 corr_one_max: 42 curr_index: 72; index_error 0
+S: 1001000 72 (bin 72)
+Lost sync
+Ca: 0.999797
+Cd: -0.00537047
+C:  flag=1; corr_zero_index: 26 corr_zero_max: 27; corr_one_index: 64 corr_one_max: 46 curr_index: 12; index_error 0
+S: 0001100 12 (bin 12)
+Cd: -0.00148309
+C:  flag=1; corr_zero_index: 17 corr_zero_max: 23; corr_one_index: 43 corr_one_max: 47 curr_index: 37; index_error 0
+S: 0100101 37 (bin 37)
+Cd: -0.00400664
+C:  flag=1; corr_zero_index: 33 corr_zero_max: 28; corr_one_index: 4 corr_one_max: 44 curr_index: 76; index_error 0
+S: 1001100 76 (bin 76)
+Cd: -0.00202396
+C:  flag=1; corr_zero_index: 7 corr_zero_max: 27; corr_one_index: 43 corr_one_max: 47 curr_index: 33; index_error 0
+S: 0100001 33 (bin 33)
+Cd: 0.000640721
+C:  flag=1; corr_zero_index: 5 corr_zero_max: 25; corr_one_index: 61 corr_one_max: 49 curr_index: 11; index_error 0
+S: 0001011 11 (bin 11)
+Lost sync
+Ca: 0.999455
+Cd: -0.00684553
+C:  flag=1; corr_zero_index: 63 corr_zero_max: 27; corr_one_index: 20 corr_one_max: 46 curr_index: 61; index_error 0
+S: 0111101 61 (bin 61)
+Cd: 0.000705941
+C:  flag=1; corr_zero_index: 63 corr_zero_max: 23; corr_one_index: 13 corr_one_max: 50 curr_index: 63; index_error 0
+S: 0111111 63 (bin 63)
+Cd: 0.00265274
+C:  flag=1; corr_zero_index: 54 corr_zero_max: 21; corr_one_index: 16 corr_one_max: 51 curr_index: 53; index_error 0
+S: 0110101 53 (bin 53)
+Cd: 0.000287848
+C:  flag=1; corr_zero_index: 25 corr_zero_max: 24; corr_one_index: 61 corr_one_max: 48 curr_index: 15; index_error 0
+S: 0001111 15 (bin 15)
+Cd: -8.02634e-05
+C:  flag=1; corr_zero_index: 42 corr_zero_max: 22; corr_one_index: 35 corr_one_max: 48 curr_index: 43; index_error 0
+S: 0101011 43 (bin 43)
+Lost sync
+Ca: 0.998367
+Cd: -0.00747751
+C:  flag=1; corr_zero_index: 2 corr_zero_max: 23; corr_one_index: 64 corr_one_max: 49 curr_index: 13; index_error 0
+S: 0001101 13 (bin 13)
+Cd: 0.00282287
+C:  flag=1; corr_zero_index: 1 corr_zero_max: 27; corr_one_index: 62 corr_one_max: 47 curr_index: 17; index_error 0
+S: 0010001 17 (bin 17)
+Cd: -0.000248525
+C:  flag=1; corr_zero_index: 62 corr_zero_max: 23; corr_one_index: 16 corr_one_max: 47 curr_index: 62; index_error 0
+S: 0111110 62 (bin 62)
+Cd: 0.00084087
+C:  flag=1; corr_zero_index: 1 corr_zero_max: 18; corr_one_index: 41 corr_one_max: 51 curr_index: 34; index_error 0
+S: 0100010 34 (bin 34)
+Cd: -0.00164124
+C:  flag=1; corr_zero_index: 60 corr_zero_max: 21; corr_one_index: 11 corr_one_max: 49 curr_index: 65; index_error 0
+S: 1000001 65 (bin 65)
+Lost sync
+Ca: 0.99627
+Cd: -0.00615233
+C:  flag=1; corr_zero_index: 17 corr_zero_max: 21; corr_one_index: 64 corr_one_max: 50 curr_index: 13; index_error 0
+S: 0001101 13 (bin 13)
+Cd: 0.000174884
+C:  flag=1; corr_zero_index: 26 corr_zero_max: 24; corr_one_index: 7 corr_one_max: 48 curr_index: 70; index_error 0
+S: 1000110 70 (bin 70)
+Cd: 0.000241614
+C:  flag=1; corr_zero_index: 58 corr_zero_max: 22; corr_one_index: 2 corr_one_max: 48 curr_index: 69; index_error 0
+S: 1000101 69 (bin 69)
+Cd: 0.00125917
+C:  flag=1; corr_zero_index: 61 corr_zero_max: 23; corr_one_index: 34 corr_one_max: 47 curr_index: 45; index_error 0
+S: 0101101 45 (bin 45)
+Cd: -0.0020615
+C:  flag=1; corr_zero_index: 1 corr_zero_max: 25; corr_one_index: 62 corr_one_max: 47 curr_index: 13; index_error 0
+S: 0001101 13 (bin 13)
+Lost sync
+Ca: 0.986942
+Cd: -0.00874501
+C:  flag=1; corr_zero_index: 21 corr_zero_max: 24; corr_one_index: 64 corr_one_max: 49 curr_index: 14; index_error 0
+S: 0001110 14 (bin 14)
+Cd: 0.00541232
+C:  flag=1; corr_zero_index: 60 corr_zero_max: 18; corr_one_index: 25 corr_one_max: 53 curr_index: 49; index_error 0
+S: 0110001 49 (bin 49)
+Cd: 0.00248182
+C:  flag=1; corr_zero_index: 62 corr_zero_max: 22; corr_one_index: 4 corr_one_max: 51 curr_index: 72; index_error 0
+S: 1001000 72 (bin 72)
+Cd: 0.00293538
+C:  flag=1; corr_zero_index: 61 corr_zero_max: 26; corr_one_index: 22 corr_one_max: 43 curr_index: 62; index_error 0
+S: 0111110 62 (bin 62)
+Cd: 0.00155087
+C:  flag=1; corr_zero_index: 45 corr_zero_max: 27; corr_one_index: 0 corr_one_max: 45 curr_index: 81; index_error 0
+S: 1010001 81 (bin 81)
+Lost sync
+Ca: 0.951773
+Cd: -0.0165914
+C:  flag=1; corr_zero_index: 49 corr_zero_max: 23; corr_one_index: 12 corr_one_max: 47 curr_index: 68; index_error 0
+S: 1000100 68 (bin 68)
+Cd: 0.000519282
+C:  flag=1; corr_zero_index: 10 corr_zero_max: 25; corr_one_index: 26 corr_one_max: 44 curr_index: 56; index_error 0
+S: 0111000 56 (bin 56)
+Cd: 0.000265931
+C:  flag=1; corr_zero_index: 39 corr_zero_max: 24; corr_one_index: 15 corr_one_max: 46 curr_index: 66; index_error 0
+S: 1000010 66 (bin 66)
+Cd: 0.0027539
+C:  flag=1; corr_zero_index: 57 corr_zero_max: 24; corr_one_index: 0 corr_one_max: 46 curr_index: 78; index_error 0
+S: 1001110 78 (bin 78)
+Cd: -0.00115665
+C:  flag=1; corr_zero_index: 38 corr_zero_max: 21; corr_one_index: 39 corr_one_max: 46 curr_index: 42; index_error 0
+S: 0101010 42 (bin 42)
+Lost sync
+Ca: 0.999793
+Cd: -0.99447
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994388
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994392
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994541
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994624
+C:  flag=0; corr_zero_index: 1 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 63 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994587
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.995257
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.0820762
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 41; corr_one_index: 41 corr_one_max: 63 curr_index: 23; index_error 0
+S: 0010111 23 (bin 23)
+Cd: 0.116105
+C:  flag=1; corr_zero_index: 32 corr_zero_max: 32; corr_one_index: 32 corr_one_max: 64 curr_index: 31; index_error 0
+S: 0011111 31 (bin 31)
+Cd: 0.99595
+SYNC: 0.99595
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 64 curr_index: 63; index_error 0
+S: 0111111 63 (bin 63)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 64 curr_index: 63; index_error 0
+S: 0111111 63 (bin 63)
+C:  flag=0; corr_zero_index: 3 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 61 curr_index: 124; index_error 0
+G: 11100 124 (bin 124)
+10000 16 (bin 31)
+C:  flag=1; corr_zero_index: 63 corr_zero_max: 59; corr_one_index: 3 corr_one_max: 64 curr_index: 60; index_error 0
+G: 11100 60 (bin 60)
+01000 8 (bin 15)
+C:  flag=0; corr_zero_index: 31 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 33 curr_index: 96; index_error 0
+G: 00000 96 (bin 96)
+10100 20 (bin 24)
+C:  flag=0; corr_zero_index: 15 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 48 curr_index: 112; index_error 0
+G: 10000 112 (bin 112)
+10010 18 (bin 28)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 39; corr_one_index: 39 corr_one_max: 64 curr_index: 24; index_error 0
+G: 11000 24 (bin 24)
+00101 5 (bin 6)
+C:  flag=0; corr_zero_index: 19 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 44 curr_index: 108; index_error 0
+G: 01100 108 (bin 108)
+10110 22 (bin 27)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 48; corr_one_index: 15 corr_one_max: 64 curr_index: 48; index_error 0
+G: 10000 48 (bin 48)
+01010 10 (bin 12)
+C:  flag=0; corr_zero_index: 27 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 37 curr_index: 100; index_error 0
+G: 00100 100 (bin 100)
+10101 21 (bin 25)
+--------
+LSB
+[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m
+[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m
+[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[91m1[0m
+[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m
+[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m
+MSB
+--------
+D: 00000000, 10110100, 11101000, 00000000, 11111111, 
+d_index_error: 0; d_number_header: 8
+S: 00000000, 10011001, 11100001, 00000000, 11111111, 
+W: 00000000, 10011001, 11100001, 00000000, 11111111, 00000000, 
+F: 00000100, 10000000, 11110000, 
+LEN: 4 (16 symbols)
+C:  flag=0; corr_zero_index: 43 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 43 curr_index: 84; index_error 0
+G: 1010100 84 (bin 84)
+1111110 126 (bin 84)
+C:  flag=0; corr_zero_index: 56 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 56 curr_index: 71; index_error 0
+G: 1000111 71 (bin 71)
+1100100 100 (bin 71)
+C:  flag=0; corr_zero_index: 33 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 33 curr_index: 94; index_error 0
+G: 1011110 94 (bin 94)
+1110001 113 (bin 94)
+C:  flag=0; corr_zero_index: 42 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 42 curr_index: 85; index_error 0
+G: 1010101 85 (bin 85)
+1111111 127 (bin 85)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 58; corr_one_index: 58 corr_one_max: 64 curr_index: 5; index_error 0
+G: 0000101 5 (bin 5)
+0000111 7 (bin 5)
+C:  flag=0; corr_zero_index: 5 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 58 curr_index: 122; index_error 0
+G: 1111010 122 (bin 122)
+1000111 71 (bin 122)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 32; corr_one_index: 33 corr_one_max: 64 curr_index: 30; index_error 0
+G: 0011110 30 (bin 30)
+0010001 17 (bin 30)
+C:  flag=0; corr_zero_index: 4 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 59 curr_index: 123; index_error 0
+G: 1111011 123 (bin 123)
+1000110 70 (bin 123)
+--------
+LSB
+[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m[1m[95m1[0m[1m[96m1[0m[1m[97m1[0m[1m[91m1[0m[1m[92m0[0m
+[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m
+[1m[94m1[0m[1m[95m1[0m[1m[96m0[0m[1m[97m1[0m[1m[91m1[0m[1m[92m1[0m[1m[93m0[0m[1m[94m1[0m
+[1m[95m1[0m[1m[96m0[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m
+[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m1[0m[1m[93m0[0m[1m[94m0[0m[1m[95m1[0m[1m[96m0[0m
+[1m[97m1[0m[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m0[0m[1m[97m0[0m
+[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m
+MSB
+--------
+D: 00101110, 10001101, 10001101, 01001011, 00111001, 00111001, 11111111, 
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 62; corr_one_index: 62 corr_one_max: 64 curr_index: 1; index_error 0
+G: 0000001 1 (bin 1)
+0000001 1 (bin 1)
+C:  flag=0; corr_zero_index: 42 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 42 curr_index: 85; index_error 0
+G: 1010101 85 (bin 85)
+1111111 127 (bin 85)
+C:  flag=0; corr_zero_index: 53 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 53 curr_index: 74; index_error 0
+G: 1001010 74 (bin 74)
+1101111 111 (bin 74)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 62; corr_one_index: 2 corr_one_max: 64 curr_index: 61; index_error 0
+G: 0111101 61 (bin 61)
+0100011 35 (bin 61)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 55; corr_one_index: 55 corr_one_max: 64 curr_index: 8; index_error 0
+G: 0001000 8 (bin 8)
+0001100 12 (bin 8)
+C:  flag=0; corr_zero_index: 51 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 51 curr_index: 76; index_error 0
+G: 1001100 76 (bin 76)
+1101010 106 (bin 76)
+C:  flag=0; corr_zero_index: 14 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 50 curr_index: 113; index_error 0
+G: 1110001 113 (bin 113)
+1001001 73 (bin 113)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 57; corr_one_index: 7 corr_one_max: 64 curr_index: 56; index_error 0
+G: 0111000 56 (bin 56)
+0100100 36 (bin 56)
+--------
+LSB
+[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m1[0m[1m[96m0[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m
+[1m[93m0[0m[1m[94m1[0m[1m[95m1[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m
+[1m[94m0[0m[1m[95m1[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m
+[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m0[0m[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m
+[1m[96m0[0m[1m[97m1[0m[1m[91m0[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[96m0[0m
+[1m[97m0[0m[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m1[0m[1m[96m0[0m[1m[97m1[0m
+[1m[91m0[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m0[0m
+MSB
+--------
+D: 00010111, 00101110, 11000110, 00101110, 00101110, 11000110, 01110010, 
+S: 00101101, 10101010, 10101010, 01100110, 00110011, 00110011, 11111111, 00011110, 00101101, 11001100, 00101101, 00101101, 11001100, 01010101, 
+W: 11010010, 01010101, 10000111, 10011001, 01001011, 11001100, 00011110, 11100001, 00101101, 00110011, 11111111, 00000000, 10011001, 00101101, 
+F: 00100001, 01000011, 01100101, 10000111, 10011110, 00001111, 11100100, 
+Ca: 0.988494
+Cd: -0.0080815
+C:  flag=1; corr_zero_index: 44 corr_zero_max: 22; corr_one_index: 18 corr_one_max: 50 curr_index: 58; index_error 0
+S: 0111010 58 (bin 58)
+Cd: -0.00130628
+C:  flag=1; corr_zero_index: 33 corr_zero_max: 23; corr_one_index: 1 corr_one_max: 46 curr_index: 77; index_error 0
+S: 1001101 77 (bin 77)
+Cd: -0.000426756
+C:  flag=1; corr_zero_index: 9 corr_zero_max: 22; corr_one_index: 51 corr_one_max: 47 curr_index: 25; index_error 0
+S: 0011001 25 (bin 25)
+Cd: 0.00231385
+C:  flag=1; corr_zero_index: 40 corr_zero_max: 22; corr_one_index: 1 corr_one_max: 49 curr_index: 77; index_error 0
+S: 1001101 77 (bin 77)
+Cd: 0.00328631
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 25; corr_one_index: 45 corr_one_max: 45 curr_index: 35; index_error 0
+S: 0100011 35 (bin 35)
+Lost sync
+Ca: 0.967988
+Cd: -0.00785079
+C:  flag=1; corr_zero_index: 61 corr_zero_max: 25; corr_one_index: 1 corr_one_max: 49 curr_index: 76; index_error 0
+S: 1001100 76 (bin 76)
+Cd: 0.000703107
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 28; corr_one_index: 63 corr_one_max: 46 curr_index: 18; index_error 0
+S: 0010010 18 (bin 18)
+Cd: -0.00260482
+C:  flag=1; corr_zero_index: 53 corr_zero_max: 19; corr_one_index: 3 corr_one_max: 50 curr_index: 70; index_error 0
+S: 1000110 70 (bin 70)
+Cd: -0.00172373
+C:  flag=1; corr_zero_index: 63 corr_zero_max: 24; corr_one_index: 9 corr_one_max: 53 curr_index: 64; index_error 0
+S: 1000000 64 (bin 64)
+Cd: 0.00138299
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 19; corr_one_index: 12 corr_one_max: 54 curr_index: 51; index_error 0
+S: 0110011 51 (bin 51)
+Lost sync
+Ca: 0.999812
+Cd: -0.994234
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994428
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994513
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994409
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.99446
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994497
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.99529
+C:  flag=0; corr_zero_index: 1 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 63 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.0821237
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 40; corr_one_index: 40 corr_one_max: 64 curr_index: 23; index_error 0
+S: 0010111 23 (bin 23)
+Cd: 0.116175
+C:  flag=1; corr_zero_index: 32 corr_zero_max: 32; corr_one_index: 32 corr_one_max: 64 curr_index: 31; index_error 0
+S: 0011111 31 (bin 31)
+Cd: 0.995979
+SYNC: 0.995979
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 64 curr_index: 63; index_error 0
+S: 0111111 63 (bin 63)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 64 curr_index: 63; index_error 0
+S: 0111111 63 (bin 63)
+C:  flag=0; corr_zero_index: 3 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 61 curr_index: 124; index_error 0
+G: 11100 124 (bin 124)
+10000 16 (bin 31)
+C:  flag=1; corr_zero_index: 63 corr_zero_max: 59; corr_one_index: 3 corr_one_max: 64 curr_index: 60; index_error 0
+G: 11100 60 (bin 60)
+01000 8 (bin 15)
+C:  flag=0; corr_zero_index: 31 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 33 curr_index: 96; index_error 0
+G: 00000 96 (bin 96)
+10100 20 (bin 24)
+C:  flag=0; corr_zero_index: 16 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 47 curr_index: 112; index_error 0
+G: 10000 112 (bin 112)
+10010 18 (bin 28)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 40; corr_one_index: 40 corr_one_max: 63 curr_index: 24; index_error 0
+G: 11000 24 (bin 24)
+00101 5 (bin 6)
+C:  flag=0; corr_zero_index: 19 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 45 curr_index: 108; index_error 0
+G: 01100 108 (bin 108)
+10110 22 (bin 27)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 48; corr_one_index: 15 corr_one_max: 64 curr_index: 48; index_error 0
+G: 10000 48 (bin 48)
+01010 10 (bin 12)
+C:  flag=0; corr_zero_index: 27 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 37 curr_index: 100; index_error 0
+G: 00100 100 (bin 100)
+10101 21 (bin 25)
+--------
+LSB
+[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m
+[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m
+[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[91m1[0m
+[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m
+[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m
+MSB
+--------
+D: 00000000, 10110100, 11101000, 00000000, 11111111, 
+d_index_error: 0; d_number_header: 8
+S: 00000000, 10011001, 11100001, 00000000, 11111111, 
+W: 00000000, 10011001, 11100001, 00000000, 11111111, 00000000, 
+F: 00000100, 10000000, 11110000, 
+LEN: 4 (16 symbols)
+C:  flag=0; corr_zero_index: 44 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 43 curr_index: 84; index_error 0
+G: 1010100 84 (bin 84)
+1111110 126 (bin 84)
+C:  flag=0; corr_zero_index: 56 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 56 curr_index: 71; index_error 0
+G: 1000111 71 (bin 71)
+1100100 100 (bin 71)
+C:  flag=0; corr_zero_index: 33 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 33 curr_index: 94; index_error 0
+G: 1011110 94 (bin 94)
+1110001 113 (bin 94)
+C:  flag=0; corr_zero_index: 42 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 42 curr_index: 85; index_error 0
+G: 1010101 85 (bin 85)
+1111111 127 (bin 85)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 59; corr_one_index: 59 corr_one_max: 63 curr_index: 5; index_error 0
+G: 0000101 5 (bin 5)
+0000111 7 (bin 5)
+C:  flag=0; corr_zero_index: 5 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 58 curr_index: 122; index_error 0
+G: 1111010 122 (bin 122)
+1000111 71 (bin 122)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 33; corr_one_index: 33 corr_one_max: 64 curr_index: 30; index_error 0
+G: 0011110 30 (bin 30)
+0010001 17 (bin 30)
+C:  flag=0; corr_zero_index: 4 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 59 curr_index: 123; index_error 0
+G: 1111011 123 (bin 123)
+1000110 70 (bin 123)
+--------
+LSB
+[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m[1m[95m1[0m[1m[96m1[0m[1m[97m1[0m[1m[91m1[0m[1m[92m0[0m
+[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m
+[1m[94m1[0m[1m[95m1[0m[1m[96m0[0m[1m[97m1[0m[1m[91m1[0m[1m[92m1[0m[1m[93m0[0m[1m[94m1[0m
+[1m[95m1[0m[1m[96m0[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m
+[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m1[0m[1m[93m0[0m[1m[94m0[0m[1m[95m1[0m[1m[96m0[0m
+[1m[97m1[0m[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m0[0m[1m[97m0[0m
+[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m
+MSB
+--------
+D: 00101110, 10001101, 10001101, 01001011, 00111001, 00111001, 11111111, 
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 63; corr_one_index: 63 corr_one_max: 63 curr_index: 1; index_error 0
+G: 0000001 1 (bin 1)
+0000001 1 (bin 1)
+C:  flag=0; corr_zero_index: 42 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 42 curr_index: 85; index_error 0
+G: 1010101 85 (bin 85)
+1111111 127 (bin 85)
+C:  flag=0; corr_zero_index: 53 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 53 curr_index: 74; index_error 0
+G: 1001010 74 (bin 74)
+1101111 111 (bin 74)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 62; corr_one_index: 3 corr_one_max: 63 curr_index: 61; index_error 0
+G: 0111101 61 (bin 61)
+0100011 35 (bin 61)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 55; corr_one_index: 55 corr_one_max: 64 curr_index: 8; index_error 0
+G: 0001000 8 (bin 8)
+0001100 12 (bin 8)
+C:  flag=0; corr_zero_index: 51 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 51 curr_index: 76; index_error 0
+G: 1001100 76 (bin 76)
+1101010 106 (bin 76)
+C:  flag=0; corr_zero_index: 14 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 50 curr_index: 113; index_error 0
+G: 1110001 113 (bin 113)
+1001001 73 (bin 113)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 57; corr_one_index: 7 corr_one_max: 64 curr_index: 56; index_error 0
+G: 0111000 56 (bin 56)
+0100100 36 (bin 56)
+--------
+LSB
+[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m1[0m[1m[96m0[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m
+[1m[93m0[0m[1m[94m1[0m[1m[95m1[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m
+[1m[94m0[0m[1m[95m1[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m
+[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m0[0m[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m
+[1m[96m0[0m[1m[97m1[0m[1m[91m0[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[96m0[0m
+[1m[97m0[0m[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m1[0m[1m[96m0[0m[1m[97m1[0m
+[1m[91m0[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m0[0m
+MSB
+--------
+D: 00010111, 00101110, 11000110, 00101110, 00101110, 11000110, 01110010, 
+S: 00101101, 10101010, 10101010, 01100110, 00110011, 00110011, 11111111, 00011110, 00101101, 11001100, 00101101, 00101101, 11001100, 01010101, 
+W: 11010010, 01010101, 10000111, 10011001, 01001011, 11001100, 00011110, 11100001, 00101101, 00110011, 11111111, 00000000, 10011001, 00101101, 
+F: 00100001, 01000011, 01100101, 10000111, 10011110, 00001111, 11100100, 
+Ca: 0.987304
+Cd: -0.00619722
+C:  flag=1; corr_zero_index: 34 corr_zero_max: 18; corr_one_index: 40 corr_one_max: 51 curr_index: 31; index_error 0
+S: 0011111 31 (bin 31)
+Cd: -0.00352265
+C:  flag=1; corr_zero_index: 34 corr_zero_max: 29; corr_one_index: 1 corr_one_max: 43 curr_index: 83; index_error 0
+S: 1010011 83 (bin 83)
+Cd: 0.00117677
+C:  flag=1; corr_zero_index: 13 corr_zero_max: 24; corr_one_index: 41 corr_one_max: 48 curr_index: 37; index_error 0
+S: 0100101 37 (bin 37)
+Cd: -0.00176822
+C:  flag=1; corr_zero_index: 32 corr_zero_max: 26; corr_one_index: 62 corr_one_max: 48 curr_index: 15; index_error 0
+S: 0001111 15 (bin 15)
+Cd: -0.00109316
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 20; corr_one_index: 30 corr_one_max: 48 curr_index: 47; index_error 0
+S: 0101111 47 (bin 47)
+Lost sync
+Ca: 0.966098
+Cd: -0.00675375
+C:  flag=1; corr_zero_index: 43 corr_zero_max: 23; corr_one_index: 23 corr_one_max: 45 curr_index: 45; index_error 0
+S: 0101101 45 (bin 45)
+Cd: -0.00110063
+C:  flag=1; corr_zero_index: 35 corr_zero_max: 24; corr_one_index: 4 corr_one_max: 45 curr_index: 77; index_error 0
+S: 1001101 77 (bin 77)
+Cd: 6.51794e-06
+C:  flag=1; corr_zero_index: 39 corr_zero_max: 23; corr_one_index: 2 corr_one_max: 47 curr_index: 78; index_error 0
+S: 1001110 78 (bin 78)
+Cd: 0.00103952
+C:  flag=1; corr_zero_index: 14 corr_zero_max: 22; corr_one_index: 41 corr_one_max: 47 curr_index: 37; index_error 0
+S: 0100101 37 (bin 37)
+Cd: 0.00380802
+C:  flag=1; corr_zero_index: 8 corr_zero_max: 24; corr_one_index: 26 corr_one_max: 48 curr_index: 52; index_error 0
+S: 0110100 52 (bin 52)
+Lost sync
+Ca: 0.999839
+Cd: -0.994433
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994415
+C:  flag=0; corr_zero_index: 1 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 63 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994439
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994361
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.99445
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994586
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.995062
+C:  flag=0; corr_zero_index: 1 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 63 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.0825458
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 40; corr_one_index: 40 corr_one_max: 64 curr_index: 23; index_error 0
+S: 0010111 23 (bin 23)
+Cd: 0.115744
+C:  flag=1; corr_zero_index: 32 corr_zero_max: 32; corr_one_index: 32 corr_one_max: 64 curr_index: 31; index_error 0
+S: 0011111 31 (bin 31)
+Cd: 0.996064
+SYNC: 0.996064
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 64 curr_index: 63; index_error 0
+S: 0111111 63 (bin 63)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 64 curr_index: 63; index_error 0
+S: 0111111 63 (bin 63)
+C:  flag=0; corr_zero_index: 4 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 60 curr_index: 124; index_error 0
+G: 11100 124 (bin 124)
+10000 16 (bin 31)
+C:  flag=1; corr_zero_index: 63 corr_zero_max: 59; corr_one_index: 3 corr_one_max: 64 curr_index: 60; index_error 0
+G: 11100 60 (bin 60)
+01000 8 (bin 15)
+C:  flag=0; corr_zero_index: 31 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 33 curr_index: 96; index_error 0
+G: 00000 96 (bin 96)
+10100 20 (bin 24)
+C:  flag=0; corr_zero_index: 16 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 47 curr_index: 112; index_error 0
+G: 10000 112 (bin 112)
+10010 18 (bin 28)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 39; corr_one_index: 39 corr_one_max: 64 curr_index: 24; index_error 0
+G: 11000 24 (bin 24)
+00101 5 (bin 6)
+C:  flag=0; corr_zero_index: 19 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 44 curr_index: 108; index_error 0
+G: 01100 108 (bin 108)
+10110 22 (bin 27)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 48; corr_one_index: 16 corr_one_max: 63 curr_index: 48; index_error 0
+G: 10000 48 (bin 48)
+01010 10 (bin 12)
+C:  flag=0; corr_zero_index: 27 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 37 curr_index: 100; index_error 0
+G: 00100 100 (bin 100)
+10101 21 (bin 25)
+--------
+LSB
+[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m
+[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m
+[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[91m1[0m
+[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m
+[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m
+MSB
+--------
+D: 00000000, 10110100, 11101000, 00000000, 11111111, 
+d_index_error: 0; d_number_header: 8
+S: 00000000, 10011001, 11100001, 00000000, 11111111, 
+W: 00000000, 10011001, 11100001, 00000000, 11111111, 00000000, 
+F: 00000100, 10000000, 11110000, 
+LEN: 4 (16 symbols)
+C:  flag=0; corr_zero_index: 43 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 43 curr_index: 84; index_error 0
+G: 1010100 84 (bin 84)
+1111110 126 (bin 84)
+C:  flag=0; corr_zero_index: 57 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 56 curr_index: 71; index_error 0
+G: 1000111 71 (bin 71)
+1100100 100 (bin 71)
+C:  flag=0; corr_zero_index: 33 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 33 curr_index: 94; index_error 0
+G: 1011110 94 (bin 94)
+1110001 113 (bin 94)
+C:  flag=0; corr_zero_index: 42 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 42 curr_index: 85; index_error 0
+G: 1010101 85 (bin 85)
+1111111 127 (bin 85)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 58; corr_one_index: 58 corr_one_max: 64 curr_index: 5; index_error 0
+G: 0000101 5 (bin 5)
+0000111 7 (bin 5)
+C:  flag=0; corr_zero_index: 5 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 58 curr_index: 122; index_error 0
+G: 1111010 122 (bin 122)
+1000111 71 (bin 122)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 33; corr_one_index: 33 corr_one_max: 64 curr_index: 30; index_error 0
+G: 0011110 30 (bin 30)
+0010001 17 (bin 30)
+C:  flag=0; corr_zero_index: 4 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 59 curr_index: 123; index_error 0
+G: 1111011 123 (bin 123)
+1000110 70 (bin 123)
+--------
+LSB
+[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m[1m[95m1[0m[1m[96m1[0m[1m[97m1[0m[1m[91m1[0m[1m[92m0[0m
+[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m
+[1m[94m1[0m[1m[95m1[0m[1m[96m0[0m[1m[97m1[0m[1m[91m1[0m[1m[92m1[0m[1m[93m0[0m[1m[94m1[0m
+[1m[95m1[0m[1m[96m0[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m
+[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m1[0m[1m[93m0[0m[1m[94m0[0m[1m[95m1[0m[1m[96m0[0m
+[1m[97m1[0m[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m0[0m[1m[97m0[0m
+[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m
+MSB
+--------
+D: 00101110, 10001101, 10001101, 01001011, 00111001, 00111001, 11111111, 
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 62; corr_one_index: 62 corr_one_max: 64 curr_index: 1; index_error 0
+G: 0000001 1 (bin 1)
+0000001 1 (bin 1)
+C:  flag=0; corr_zero_index: 43 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 42 curr_index: 85; index_error 0
+G: 1010101 85 (bin 85)
+1111111 127 (bin 85)
+C:  flag=0; corr_zero_index: 53 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 53 curr_index: 74; index_error 0
+G: 1001010 74 (bin 74)
+1101111 111 (bin 74)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 62; corr_one_index: 2 corr_one_max: 64 curr_index: 61; index_error 0
+G: 0111101 61 (bin 61)
+0100011 35 (bin 61)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 55; corr_one_index: 55 corr_one_max: 64 curr_index: 8; index_error 0
+G: 0001000 8 (bin 8)
+0001100 12 (bin 8)
+C:  flag=0; corr_zero_index: 51 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 51 curr_index: 76; index_error 0
+G: 1001100 76 (bin 76)
+1101010 106 (bin 76)
+C:  flag=0; corr_zero_index: 14 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 50 curr_index: 113; index_error 0
+G: 1110001 113 (bin 113)
+1001001 73 (bin 113)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 57; corr_one_index: 7 corr_one_max: 64 curr_index: 56; index_error 0
+G: 0111000 56 (bin 56)
+0100100 36 (bin 56)
+--------
+LSB
+[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m1[0m[1m[96m0[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m
+[1m[93m0[0m[1m[94m1[0m[1m[95m1[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m
+[1m[94m0[0m[1m[95m1[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m
+[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m0[0m[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m
+[1m[96m0[0m[1m[97m1[0m[1m[91m0[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[96m0[0m
+[1m[97m0[0m[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m1[0m[1m[96m0[0m[1m[97m1[0m
+[1m[91m0[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m0[0m
+MSB
+--------
+D: 00010111, 00101110, 11000110, 00101110, 00101110, 11000110, 01110010, 
+S: 00101101, 10101010, 10101010, 01100110, 00110011, 00110011, 11111111, 00011110, 00101101, 11001100, 00101101, 00101101, 11001100, 01010101, 
+W: 11010010, 01010101, 10000111, 10011001, 01001011, 11001100, 00011110, 11100001, 00101101, 00110011, 11111111, 00000000, 10011001, 00101101, 
+F: 00100001, 01000011, 01100101, 10000111, 10011110, 00001111, 11100100, 
+Ca: 0.985694
+Cd: -0.0107029
+C:  flag=1; corr_zero_index: 2 corr_zero_max: 25; corr_one_index: 48 corr_one_max: 44 curr_index: 35; index_error 0
+S: 0100011 35 (bin 35)
+Cd: -0.00264045
+C:  flag=1; corr_zero_index: 40 corr_zero_max: 24; corr_one_index: 26 corr_one_max: 47 curr_index: 49; index_error 0
+S: 0110001 49 (bin 49)
+Cd: -0.00207295
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 24; corr_one_index: 12 corr_one_max: 51 curr_index: 62; index_error 0
+S: 0111110 62 (bin 62)
+Cd: -0.000448758
+C:  flag=1; corr_zero_index: 1 corr_zero_max: 20; corr_one_index: 45 corr_one_max: 52 curr_index: 26; index_error 0
+S: 0011010 26 (bin 26)
+Cd: 0.0395019
+C:  flag=1; corr_zero_index: 53 corr_zero_max: 26; corr_one_index: 5 corr_one_max: 46 curr_index: 74; index_error 0
+S: 1001010 74 (bin 74)
+Lost sync
+Ca: 0.964557
+Cd: -0.00765281
+C:  flag=1; corr_zero_index: 9 corr_zero_max: 24; corr_one_index: 61 corr_one_max: 51 curr_index: 9; index_error 0
+S: 0001001 9 (bin 9)
+Cd: 0.000213688
+C:  flag=1; corr_zero_index: 56 corr_zero_max: 26; corr_one_index: 0 corr_one_max: 47 curr_index: 69; index_error 0
+S: 1000101 69 (bin 69)
+Cd: 0.00100265
+C:  flag=1; corr_zero_index: 13 corr_zero_max: 24; corr_one_index: 49 corr_one_max: 44 curr_index: 33; index_error 0
+S: 0100001 33 (bin 33)
+Cd: -0.00221805
+C:  flag=1; corr_zero_index: 1 corr_zero_max: 21; corr_one_index: 45 corr_one_max: 50 curr_index: 31; index_error 0
+S: 0011111 31 (bin 31)
+Cd: -0.00320052
+C:  flag=1; corr_zero_index: 37 corr_zero_max: 22; corr_one_index: 31 corr_one_max: 47 curr_index: 49; index_error 0
+S: 0110001 49 (bin 49)
+Lost sync
+Ca: 0.999775
+Cd: -0.994344
+C:  flag=0; corr_zero_index: 1 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 63 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994266
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.9943
+C:  flag=0; corr_zero_index: 1 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 63 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994283
+C:  flag=0; corr_zero_index: 1 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 63 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994352
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994378
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994651
+C:  flag=0; corr_zero_index: 1 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 63 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.0828971
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 40; corr_one_index: 40 corr_one_max: 64 curr_index: 23; index_error 0
+S: 0010111 23 (bin 23)
+Cd: 0.115275
+C:  flag=1; corr_zero_index: 32 corr_zero_max: 32; corr_one_index: 32 corr_one_max: 64 curr_index: 31; index_error 0
+S: 0011111 31 (bin 31)
+Cd: 0.996137
+SYNC: 0.996137
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 64 curr_index: 63; index_error 0
+S: 0111111 63 (bin 63)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 64 curr_index: 63; index_error 0
+S: 0111111 63 (bin 63)
+C:  flag=0; corr_zero_index: 3 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 61 curr_index: 124; index_error 0
+G: 11100 124 (bin 124)
+10000 16 (bin 31)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 60; corr_one_index: 3 corr_one_max: 64 curr_index: 60; index_error 0
+G: 11100 60 (bin 60)
+01000 8 (bin 15)
+C:  flag=0; corr_zero_index: 31 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 33 curr_index: 96; index_error 0
+G: 00000 96 (bin 96)
+10100 20 (bin 24)
+C:  flag=0; corr_zero_index: 15 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 48 curr_index: 112; index_error 0
+G: 10000 112 (bin 112)
+10010 18 (bin 28)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 40; corr_one_index: 40 corr_one_max: 63 curr_index: 24; index_error 0
+G: 11000 24 (bin 24)
+00101 5 (bin 6)
+C:  flag=0; corr_zero_index: 19 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 45 curr_index: 108; index_error 0
+G: 01100 108 (bin 108)
+10110 22 (bin 27)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 48; corr_one_index: 16 corr_one_max: 63 curr_index: 48; index_error 0
+G: 10000 48 (bin 48)
+01010 10 (bin 12)
+C:  flag=0; corr_zero_index: 27 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 37 curr_index: 100; index_error 0
+G: 00100 100 (bin 100)
+10101 21 (bin 25)
+--------
+LSB
+[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m
+[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m
+[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[91m1[0m
+[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m
+[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m
+MSB
+--------
+D: 00000000, 10110100, 11101000, 00000000, 11111111, 
+d_index_error: 0; d_number_header: 8
+S: 00000000, 10011001, 11100001, 00000000, 11111111, 
+W: 00000000, 10011001, 11100001, 00000000, 11111111, 00000000, 
+F: 00000100, 10000000, 11110000, 
+LEN: 4 (16 symbols)
+C:  flag=0; corr_zero_index: 43 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 43 curr_index: 84; index_error 0
+G: 1010100 84 (bin 84)
+1111110 126 (bin 84)
+C:  flag=0; corr_zero_index: 56 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 56 curr_index: 71; index_error 0
+G: 1000111 71 (bin 71)
+1100100 100 (bin 71)
+C:  flag=0; corr_zero_index: 33 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 33 curr_index: 94; index_error 0
+G: 1011110 94 (bin 94)
+1110001 113 (bin 94)
+C:  flag=0; corr_zero_index: 42 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 42 curr_index: 85; index_error 0
+G: 1010101 85 (bin 85)
+1111111 127 (bin 85)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 58; corr_one_index: 58 corr_one_max: 64 curr_index: 5; index_error 0
+G: 0000101 5 (bin 5)
+0000111 7 (bin 5)
+C:  flag=0; corr_zero_index: 5 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 58 curr_index: 122; index_error 0
+G: 1111010 122 (bin 122)
+1000111 71 (bin 122)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 33; corr_one_index: 33 corr_one_max: 64 curr_index: 30; index_error 0
+G: 0011110 30 (bin 30)
+0010001 17 (bin 30)
+C:  flag=0; corr_zero_index: 5 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 58 curr_index: 123; index_error 0
+G: 1111011 123 (bin 123)
+1000110 70 (bin 123)
+--------
+LSB
+[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m[1m[95m1[0m[1m[96m1[0m[1m[97m1[0m[1m[91m1[0m[1m[92m0[0m
+[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m
+[1m[94m1[0m[1m[95m1[0m[1m[96m0[0m[1m[97m1[0m[1m[91m1[0m[1m[92m1[0m[1m[93m0[0m[1m[94m1[0m
+[1m[95m1[0m[1m[96m0[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m
+[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m1[0m[1m[93m0[0m[1m[94m0[0m[1m[95m1[0m[1m[96m0[0m
+[1m[97m1[0m[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m0[0m[1m[97m0[0m
+[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m
+MSB
+--------
+D: 00101110, 10001101, 10001101, 01001011, 00111001, 00111001, 11111111, 
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 63; corr_one_index: 63 corr_one_max: 63 curr_index: 1; index_error 0
+G: 0000001 1 (bin 1)
+0000001 1 (bin 1)
+C:  flag=0; corr_zero_index: 43 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 42 curr_index: 85; index_error 0
+G: 1010101 85 (bin 85)
+1111111 127 (bin 85)
+C:  flag=0; corr_zero_index: 54 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 53 curr_index: 74; index_error 0
+G: 1001010 74 (bin 74)
+1101111 111 (bin 74)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 62; corr_one_index: 2 corr_one_max: 64 curr_index: 61; index_error 0
+G: 0111101 61 (bin 61)
+0100011 35 (bin 61)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 56; corr_one_index: 56 corr_one_max: 63 curr_index: 8; index_error 0
+G: 0001000 8 (bin 8)
+0001100 12 (bin 8)
+C:  flag=0; corr_zero_index: 51 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 51 curr_index: 76; index_error 0
+G: 1001100 76 (bin 76)
+1101010 106 (bin 76)
+C:  flag=0; corr_zero_index: 14 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 50 curr_index: 113; index_error 0
+G: 1110001 113 (bin 113)
+1001001 73 (bin 113)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 57; corr_one_index: 7 corr_one_max: 64 curr_index: 56; index_error 0
+G: 0111000 56 (bin 56)
+0100100 36 (bin 56)
+--------
+LSB
+[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m1[0m[1m[96m0[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m
+[1m[93m0[0m[1m[94m1[0m[1m[95m1[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m
+[1m[94m0[0m[1m[95m1[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m
+[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m0[0m[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m
+[1m[96m0[0m[1m[97m1[0m[1m[91m0[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[96m0[0m
+[1m[97m0[0m[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m1[0m[1m[96m0[0m[1m[97m1[0m
+[1m[91m0[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m0[0m
+MSB
+--------
+D: 00010111, 00101110, 11000110, 00101110, 00101110, 11000110, 01110010, 
+S: 00101101, 10101010, 10101010, 01100110, 00110011, 00110011, 11111111, 00011110, 00101101, 11001100, 00101101, 00101101, 11001100, 01010101, 
+W: 11010010, 01010101, 10000111, 10011001, 01001011, 11001100, 00011110, 11100001, 00101101, 00110011, 11111111, 00000000, 10011001, 00101101, 
+F: 00100001, 01000011, 01100101, 10000111, 10011110, 00001111, 11100100, 
+Ca: 0.987529
+Cd: -0.0130061
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 20; corr_one_index: 36 corr_one_max: 51 curr_index: 37; index_error 0
+S: 0100101 37 (bin 37)
+Cd: 0.000779464
+C:  flag=1; corr_zero_index: 59 corr_zero_max: 28; corr_one_index: 2 corr_one_max: 48 curr_index: 74; index_error 0
+S: 1001010 74 (bin 74)
+Cd: -0.00060961
+C:  flag=1; corr_zero_index: 52 corr_zero_max: 25; corr_one_index: 8 corr_one_max: 45 curr_index: 74; index_error 0
+S: 1001010 74 (bin 74)
+Cd: 0.00373893
+C:  flag=1; corr_zero_index: 18 corr_zero_max: 23; corr_one_index: 33 corr_one_max: 45 curr_index: 44; index_error 0
+S: 0101100 44 (bin 44)
+Cd: -0.000842614
+C:  flag=1; corr_zero_index: 6 corr_zero_max: 21; corr_one_index: 33 corr_one_max: 52 curr_index: 41; index_error 0
+S: 0101001 41 (bin 41)
+Lost sync
+Ca: 0.967673
+Cd: -0.00747666
+C:  flag=1; corr_zero_index: 17 corr_zero_max: 21; corr_one_index: 57 corr_one_max: 48 curr_index: 15; index_error 0
+S: 0001111 15 (bin 15)
+Cd: 0.00282209
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 24; corr_one_index: 0 corr_one_max: 50 curr_index: 75; index_error 0
+S: 1001011 75 (bin 75)
+Cd: -0.000420362
+C:  flag=1; corr_zero_index: 58 corr_zero_max: 29; corr_one_index: 20 corr_one_max: 44 curr_index: 63; index_error 0
+S: 0111111 63 (bin 63)
+Cd: 0.00324982
+C:  flag=1; corr_zero_index: 53 corr_zero_max: 22; corr_one_index: 1 corr_one_max: 48 curr_index: 74; index_error 0
+S: 1001010 74 (bin 74)
+Cd: -0.00603936
+C:  flag=1; corr_zero_index: 53 corr_zero_max: 18; corr_one_index: 13 corr_one_max: 51 curr_index: 61; index_error 0
+S: 0111101 61 (bin 61)
+Lost sync
+Ca: 0.999781
+Cd: -0.994315
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994383
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994382
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 63; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994509
+C:  flag=0; corr_zero_index: 1 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 63 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994525
+C:  flag=0; corr_zero_index: 1 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 63 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994431
+C:  flag=0; corr_zero_index: 1 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 63 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994927
+C:  flag=0; corr_zero_index: 1 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 63 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.0826623
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 40; corr_one_index: 40 corr_one_max: 64 curr_index: 23; index_error 0
+S: 0010111 23 (bin 23)
+Cd: 0.115664
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 33; corr_one_index: 33 corr_one_max: 63 curr_index: 31; index_error 0
+S: 0011111 31 (bin 31)
+Cd: 0.996243
+SYNC: 0.996243
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 63; corr_one_index: 1 corr_one_max: 64 curr_index: 62; index_error 0
+S: 0111110 62 (bin 62)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 64 curr_index: 63; index_error 0
+S: 0111111 63 (bin 63)
+C:  flag=0; corr_zero_index: 4 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 60 curr_index: 124; index_error 0
+G: 11100 124 (bin 124)
+10000 16 (bin 31)
+C:  flag=1; corr_zero_index: 63 corr_zero_max: 59; corr_one_index: 3 corr_one_max: 64 curr_index: 60; index_error 0
+G: 11100 60 (bin 60)
+01000 8 (bin 15)
+C:  flag=0; corr_zero_index: 31 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 33 curr_index: 96; index_error 0
+G: 00000 96 (bin 96)
+10100 20 (bin 24)
+C:  flag=0; corr_zero_index: 16 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 47 curr_index: 112; index_error 0
+G: 10000 112 (bin 112)
+10010 18 (bin 28)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 39; corr_one_index: 39 corr_one_max: 64 curr_index: 24; index_error 0
+G: 11000 24 (bin 24)
+00101 5 (bin 6)
+C:  flag=0; corr_zero_index: 20 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 44 curr_index: 108; index_error 0
+G: 01100 108 (bin 108)
+10110 22 (bin 27)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 48; corr_one_index: 15 corr_one_max: 64 curr_index: 48; index_error 0
+G: 10000 48 (bin 48)
+01010 10 (bin 12)
+C:  flag=0; corr_zero_index: 27 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 37 curr_index: 100; index_error 0
+G: 00100 100 (bin 100)
+10101 21 (bin 25)
+--------
+LSB
+[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m
+[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m
+[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[91m1[0m
+[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m
+[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m
+MSB
+--------
+D: 00000000, 10110100, 11101000, 00000000, 11111111, 
+d_index_error: 0; d_number_header: 8
+S: 00000000, 10011001, 11100001, 00000000, 11111111, 
+W: 00000000, 10011001, 11100001, 00000000, 11111111, 00000000, 
+F: 00000100, 10000000, 11110000, 
+LEN: 4 (16 symbols)
+C:  flag=0; corr_zero_index: 44 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 43 curr_index: 84; index_error 0
+G: 1010100 84 (bin 84)
+1111110 126 (bin 84)
+C:  flag=0; corr_zero_index: 57 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 56 curr_index: 71; index_error 0
+G: 1000111 71 (bin 71)
+1100100 100 (bin 71)
+C:  flag=0; corr_zero_index: 33 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 33 curr_index: 94; index_error 0
+G: 1011110 94 (bin 94)
+1110001 113 (bin 94)
+C:  flag=0; corr_zero_index: 42 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 42 curr_index: 85; index_error 0
+G: 1010101 85 (bin 85)
+1111111 127 (bin 85)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 58; corr_one_index: 58 corr_one_max: 64 curr_index: 5; index_error 0
+G: 0000101 5 (bin 5)
+0000111 7 (bin 5)
+C:  flag=0; corr_zero_index: 5 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 58 curr_index: 122; index_error 0
+G: 1111010 122 (bin 122)
+1000111 71 (bin 122)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 34; corr_one_index: 34 corr_one_max: 63 curr_index: 30; index_error 0
+G: 0011110 30 (bin 30)
+0010001 17 (bin 30)
+C:  flag=0; corr_zero_index: 4 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 59 curr_index: 123; index_error 0
+G: 1111011 123 (bin 123)
+1000110 70 (bin 123)
+--------
+LSB
+[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m[1m[95m1[0m[1m[96m1[0m[1m[97m1[0m[1m[91m1[0m[1m[92m0[0m
+[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m
+[1m[94m1[0m[1m[95m1[0m[1m[96m0[0m[1m[97m1[0m[1m[91m1[0m[1m[92m1[0m[1m[93m0[0m[1m[94m1[0m
+[1m[95m1[0m[1m[96m0[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m
+[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m1[0m[1m[93m0[0m[1m[94m0[0m[1m[95m1[0m[1m[96m0[0m
+[1m[97m1[0m[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m0[0m[1m[97m0[0m
+[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m
+MSB
+--------
+D: 00101110, 10001101, 10001101, 01001011, 00111001, 00111001, 11111111, 
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 62; corr_one_index: 62 corr_one_max: 64 curr_index: 1; index_error 0
+G: 0000001 1 (bin 1)
+0000001 1 (bin 1)
+C:  flag=0; corr_zero_index: 42 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 42 curr_index: 85; index_error 0
+G: 1010101 85 (bin 85)
+1111111 127 (bin 85)
+C:  flag=0; corr_zero_index: 53 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 53 curr_index: 74; index_error 0
+G: 1001010 74 (bin 74)
+1101111 111 (bin 74)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 62; corr_one_index: 3 corr_one_max: 63 curr_index: 61; index_error 0
+G: 0111101 61 (bin 61)
+0100011 35 (bin 61)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 55; corr_one_index: 55 corr_one_max: 64 curr_index: 8; index_error 0
+G: 0001000 8 (bin 8)
+0001100 12 (bin 8)
+C:  flag=0; corr_zero_index: 51 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 51 curr_index: 76; index_error 0
+G: 1001100 76 (bin 76)
+1101010 106 (bin 76)
+C:  flag=0; corr_zero_index: 14 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 50 curr_index: 113; index_error 0
+G: 1110001 113 (bin 113)
+1001001 73 (bin 113)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 57; corr_one_index: 8 corr_one_max: 63 curr_index: 56; index_error 0
+G: 0111000 56 (bin 56)
+0100100 36 (bin 56)
+--------
+LSB
+[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m1[0m[1m[96m0[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m
+[1m[93m0[0m[1m[94m1[0m[1m[95m1[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m
+[1m[94m0[0m[1m[95m1[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m
+[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m0[0m[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m
+[1m[96m0[0m[1m[97m1[0m[1m[91m0[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[96m0[0m
+[1m[97m0[0m[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m1[0m[1m[96m0[0m[1m[97m1[0m
+[1m[91m0[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m0[0m
+MSB
+--------
+D: 00010111, 00101110, 11000110, 00101110, 00101110, 11000110, 01110010, 
+S: 00101101, 10101010, 10101010, 01100110, 00110011, 00110011, 11111111, 00011110, 00101101, 11001100, 00101101, 00101101, 11001100, 01010101, 
+W: 11010010, 01010101, 10000111, 10011001, 01001011, 11001100, 00011110, 11100001, 00101101, 00110011, 11111111, 00000000, 10011001, 00101101, 
+F: 00100001, 01000011, 01100101, 10000111, 10011110, 00001111, 11100100, 
+Ca: 0.989683
+Cd: -0.00953781
+C:  flag=1; corr_zero_index: 9 corr_zero_max: 24; corr_one_index: 55 corr_one_max: 47 curr_index: 24; index_error 0
+S: 0011000 24 (bin 24)
+Cd: 0.00136034
+C:  flag=1; corr_zero_index: 3 corr_zero_max: 16; corr_one_index: 53 corr_one_max: 54 curr_index: 17; index_error 0
+S: 0010001 17 (bin 17)
+Cd: -0.000224883
+C:  flag=1; corr_zero_index: 34 corr_zero_max: 23; corr_one_index: 52 corr_one_max: 46 curr_index: 25; index_error 0
+S: 0011001 25 (bin 25)
+Cd: 0.00147204
+C:  flag=1; corr_zero_index: 9 corr_zero_max: 28; corr_one_index: 56 corr_one_max: 43 curr_index: 27; index_error 0
+S: 0011011 27 (bin 27)
+Cd: 0.000863996
+C:  flag=1; corr_zero_index: 33 corr_zero_max: 24; corr_one_index: 16 corr_one_max: 44 curr_index: 65; index_error 0
+S: 1000001 65 (bin 65)
+Lost sync
+Ca: 0.97251
+Cd: -0.0114227
+C:  flag=1; corr_zero_index: 61 corr_zero_max: 24; corr_one_index: 16 corr_one_max: 49 curr_index: 61; index_error 0
+S: 0111101 61 (bin 61)
+Cd: -0.00365624
+C:  flag=1; corr_zero_index: 19 corr_zero_max: 21; corr_one_index: 56 corr_one_max: 48 curr_index: 18; index_error 0
+S: 0010010 18 (bin 18)
+Cd: 0.000932244
+C:  flag=1; corr_zero_index: 42 corr_zero_max: 26; corr_one_index: 4 corr_one_max: 45 curr_index: 77; index_error 0
+S: 1001101 77 (bin 77)
+Cd: 0.00262878
+C:  flag=1; corr_zero_index: 10 corr_zero_max: 17; corr_one_index: 62 corr_one_max: 53 curr_index: 9; index_error 0
+S: 0001001 9 (bin 9)
+Cd: 0.00108616
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 24; corr_one_index: 3 corr_one_max: 50 curr_index: 73; index_error 0
+S: 1001001 73 (bin 73)
+Lost sync
+Ca: 0.90166
+Cd: -0.00494991
+C:  flag=1; corr_zero_index: 1 corr_zero_max: 28; corr_one_index: 50 corr_one_max: 46 curr_index: 30; index_error 0
+S: 0011110 30 (bin 30)
+Cd: 0.0210855
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 26; corr_one_index: 2 corr_one_max: 44 curr_index: 80; index_error 0
+S: 1010000 80 (bin 80)
+Cd: 0.000285265
+C:  flag=1; corr_zero_index: 53 corr_zero_max: 20; corr_one_index: 13 corr_one_max: 51 curr_index: 63; index_error 0
+S: 0111111 63 (bin 63)
+Cd: 0.0168525
+C:  flag=1; corr_zero_index: 60 corr_zero_max: 27; corr_one_index: 0 corr_one_max: 50 curr_index: 75; index_error 0
+S: 1001011 75 (bin 75)
+Cd: 0.0299668
+C:  flag=1; corr_zero_index: 63 corr_zero_max: 29; corr_one_index: 2 corr_one_max: 51 curr_index: 72; index_error 0
+S: 1001000 72 (bin 72)
+Lost sync
+Ca: 0.999766
+Cd: -0.994404
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994448
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994469
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994479
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994529
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994341
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.995109
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.0818928
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 40; corr_one_index: 40 corr_one_max: 64 curr_index: 23; index_error 0
+S: 0010111 23 (bin 23)
+Cd: 0.116311
+C:  flag=1; corr_zero_index: 32 corr_zero_max: 32; corr_one_index: 32 corr_one_max: 64 curr_index: 31; index_error 0
+S: 0011111 31 (bin 31)
+Cd: 0.995801
+SYNC: 0.995801
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 64 curr_index: 63; index_error 0
+S: 0111111 63 (bin 63)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 64 curr_index: 63; index_error 0
+S: 0111111 63 (bin 63)
+C:  flag=0; corr_zero_index: 3 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 61 curr_index: 124; index_error 0
+G: 11100 124 (bin 124)
+10000 16 (bin 31)
+C:  flag=1; corr_zero_index: 63 corr_zero_max: 59; corr_one_index: 3 corr_one_max: 64 curr_index: 60; index_error 0
+G: 11100 60 (bin 60)
+01000 8 (bin 15)
+C:  flag=0; corr_zero_index: 31 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 33 curr_index: 96; index_error 0
+G: 00000 96 (bin 96)
+10100 20 (bin 24)
+C:  flag=0; corr_zero_index: 15 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 48 curr_index: 112; index_error 0
+G: 10000 112 (bin 112)
+10010 18 (bin 28)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 39; corr_one_index: 39 corr_one_max: 64 curr_index: 24; index_error 0
+G: 11000 24 (bin 24)
+00101 5 (bin 6)
+C:  flag=0; corr_zero_index: 19 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 44 curr_index: 108; index_error 0
+G: 01100 108 (bin 108)
+10110 22 (bin 27)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 48; corr_one_index: 15 corr_one_max: 64 curr_index: 48; index_error 0
+G: 10000 48 (bin 48)
+01010 10 (bin 12)
+C:  flag=0; corr_zero_index: 27 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 37 curr_index: 100; index_error 0
+G: 00100 100 (bin 100)
+10101 21 (bin 25)
+--------
+LSB
+[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m
+[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m
+[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[91m1[0m
+[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m
+[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m
+MSB
+--------
+D: 00000000, 10110100, 11101000, 00000000, 11111111, 
+d_index_error: 0; d_number_header: 8
+S: 00000000, 10011001, 11100001, 00000000, 11111111, 
+W: 00000000, 10011001, 11100001, 00000000, 11111111, 00000000, 
+F: 00000100, 10000000, 11110000, 
+LEN: 4 (16 symbols)
+C:  flag=0; corr_zero_index: 43 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 43 curr_index: 84; index_error 0
+G: 1010100 84 (bin 84)
+1111110 126 (bin 84)
+C:  flag=0; corr_zero_index: 56 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 56 curr_index: 71; index_error 0
+G: 1000111 71 (bin 71)
+1100100 100 (bin 71)
+C:  flag=0; corr_zero_index: 33 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 33 curr_index: 94; index_error 0
+G: 1011110 94 (bin 94)
+1110001 113 (bin 94)
+C:  flag=0; corr_zero_index: 43 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 42 curr_index: 85; index_error 0
+G: 1010101 85 (bin 85)
+1111111 127 (bin 85)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 58; corr_one_index: 58 corr_one_max: 64 curr_index: 5; index_error 0
+G: 0000101 5 (bin 5)
+0000111 7 (bin 5)
+C:  flag=0; corr_zero_index: 6 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 57 curr_index: 122; index_error 0
+G: 1111010 122 (bin 122)
+1000111 71 (bin 122)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 34; corr_one_index: 34 corr_one_max: 63 curr_index: 30; index_error 0
+G: 0011110 30 (bin 30)
+0010001 17 (bin 30)
+C:  flag=0; corr_zero_index: 5 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 58 curr_index: 123; index_error 0
+G: 1111011 123 (bin 123)
+1000110 70 (bin 123)
+--------
+LSB
+[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m[1m[95m1[0m[1m[96m1[0m[1m[97m1[0m[1m[91m1[0m[1m[92m0[0m
+[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m
+[1m[94m1[0m[1m[95m1[0m[1m[96m0[0m[1m[97m1[0m[1m[91m1[0m[1m[92m1[0m[1m[93m0[0m[1m[94m1[0m
+[1m[95m1[0m[1m[96m0[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m
+[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m1[0m[1m[93m0[0m[1m[94m0[0m[1m[95m1[0m[1m[96m0[0m
+[1m[97m1[0m[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m0[0m[1m[97m0[0m
+[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m
+MSB
+--------
+D: 00101110, 10001101, 10001101, 01001011, 00111001, 00111001, 11111111, 
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 62; corr_one_index: 62 corr_one_max: 64 curr_index: 1; index_error 0
+G: 0000001 1 (bin 1)
+0000001 1 (bin 1)
+C:  flag=0; corr_zero_index: 42 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 42 curr_index: 85; index_error 0
+G: 1010101 85 (bin 85)
+1111111 127 (bin 85)
+C:  flag=0; corr_zero_index: 53 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 53 curr_index: 74; index_error 0
+G: 1001010 74 (bin 74)
+1101111 111 (bin 74)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 62; corr_one_index: 2 corr_one_max: 64 curr_index: 61; index_error 0
+G: 0111101 61 (bin 61)
+0100011 35 (bin 61)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 55; corr_one_index: 55 corr_one_max: 64 curr_index: 8; index_error 0
+G: 0001000 8 (bin 8)
+0001100 12 (bin 8)
+C:  flag=0; corr_zero_index: 51 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 51 curr_index: 76; index_error 0
+G: 1001100 76 (bin 76)
+1101010 106 (bin 76)
+C:  flag=0; corr_zero_index: 14 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 50 curr_index: 113; index_error 0
+G: 1110001 113 (bin 113)
+1001001 73 (bin 113)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 57; corr_one_index: 7 corr_one_max: 64 curr_index: 56; index_error 0
+G: 0111000 56 (bin 56)
+0100100 36 (bin 56)
+--------
+LSB
+[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m1[0m[1m[96m0[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m
+[1m[93m0[0m[1m[94m1[0m[1m[95m1[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m
+[1m[94m0[0m[1m[95m1[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m
+[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m0[0m[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m
+[1m[96m0[0m[1m[97m1[0m[1m[91m0[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[96m0[0m
+[1m[97m0[0m[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m1[0m[1m[96m0[0m[1m[97m1[0m
+[1m[91m0[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m0[0m
+MSB
+--------
+D: 00010111, 00101110, 11000110, 00101110, 00101110, 11000110, 01110010, 
+S: 00101101, 10101010, 10101010, 01100110, 00110011, 00110011, 11111111, 00011110, 00101101, 11001100, 00101101, 00101101, 11001100, 01010101, 
+W: 11010010, 01010101, 10000111, 10011001, 01001011, 11001100, 00011110, 11100001, 00101101, 00110011, 11111111, 00000000, 10011001, 00101101, 
+F: 00100001, 01000011, 01100101, 10000111, 10011110, 00001111, 11100100, 
+Ca: 0.98906
+Cd: -0.00937528
+C:  flag=1; corr_zero_index: 11 corr_zero_max: 23; corr_one_index: 48 corr_one_max: 47 curr_index: 27; index_error 0
+S: 0011011 27 (bin 27)
+Cd: 0.000394015
+C:  flag=1; corr_zero_index: 36 corr_zero_max: 28; corr_one_index: 0 corr_one_max: 42 curr_index: 82; index_error 0
+S: 1010010 82 (bin 82)
+Cd: 0.00211434
+C:  flag=1; corr_zero_index: 53 corr_zero_max: 25; corr_one_index: 42 corr_one_max: 44 curr_index: 39; index_error 0
+S: 0100111 39 (bin 39)
+Cd: 0.000188428
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 28; corr_one_index: 56 corr_one_max: 48 curr_index: 21; index_error 0
+S: 0010101 21 (bin 21)
+Cd: 0.00251402
+C:  flag=1; corr_zero_index: 3 corr_zero_max: 26; corr_one_index: 64 corr_one_max: 47 curr_index: 11; index_error 0
+S: 0001011 11 (bin 11)
+Lost sync
+Ca: 0.95022
+Cd: -0.0573133
+C:  flag=1; corr_zero_index: 45 corr_zero_max: 32; corr_one_index: 5 corr_one_max: 42 curr_index: 79; index_error 0
+S: 1001111 79 (bin 79)
+Cd: 0.0013811
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 23; corr_one_index: 2 corr_one_max: 51 curr_index: 61; index_error 0
+S: 0111101 61 (bin 61)
+Cd: -0.000753988
+C:  flag=1; corr_zero_index: 59 corr_zero_max: 21; corr_one_index: 17 corr_one_max: 49 curr_index: 60; index_error 0
+S: 0111100 60 (bin 60)
+Cd: 0.000695617
+C:  flag=1; corr_zero_index: 16 corr_zero_max: 22; corr_one_index: 53 corr_one_max: 47 curr_index: 26; index_error 0
+S: 0011010 26 (bin 26)
+Cd: 0.000519646
+C:  flag=1; corr_zero_index: 39 corr_zero_max: 19; corr_one_index: 25 corr_one_max: 51 curr_index: 43; index_error 0
+S: 0101011 43 (bin 43)
+Lost sync
+Ca: 0.910836
+Cd: -0.0212784
+C:  flag=1; corr_zero_index: 63 corr_zero_max: 28; corr_one_index: 5 corr_one_max: 48 curr_index: 74; index_error 0
+S: 1001010 74 (bin 74)
+Cd: 0.00340835
+C:  flag=1; corr_zero_index: 29 corr_zero_max: 24; corr_one_index: 1 corr_one_max: 47 curr_index: 77; index_error 0
+S: 1001101 77 (bin 77)
+Cd: 0.00139364
+C:  flag=1; corr_zero_index: 16 corr_zero_max: 25; corr_one_index: 61 corr_one_max: 47 curr_index: 19; index_error 0
+S: 0010011 19 (bin 19)
+Cd: 0.000158167
+C:  flag=1; corr_zero_index: 22 corr_zero_max: 28; corr_one_index: 61 corr_one_max: 48 curr_index: 16; index_error 0
+S: 0010000 16 (bin 16)
+Cd: -0.00106672
+C:  flag=1; corr_zero_index: 56 corr_zero_max: 20; corr_one_index: 14 corr_one_max: 52 curr_index: 61; index_error 0
+S: 0111101 61 (bin 61)
+Lost sync
+Ca: 0.999841
+Cd: -0.994447
+C:  flag=0; corr_zero_index: 1 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 63 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994506
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.99446
+C:  flag=0; corr_zero_index: 1 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 63 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994523
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994651
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994596
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.995012
+C:  flag=0; corr_zero_index: 1 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 63 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.0823399
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 40; corr_one_index: 40 corr_one_max: 64 curr_index: 23; index_error 0
+S: 0010111 23 (bin 23)
+Cd: 0.115861
+C:  flag=1; corr_zero_index: 32 corr_zero_max: 32; corr_one_index: 32 corr_one_max: 64 curr_index: 31; index_error 0
+S: 0011111 31 (bin 31)
+Cd: 0.99609
+SYNC: 0.99609
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 64 curr_index: 63; index_error 0
+S: 0111111 63 (bin 63)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 64 curr_index: 63; index_error 0
+S: 0111111 63 (bin 63)
+C:  flag=0; corr_zero_index: 3 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 61 curr_index: 124; index_error 0
+G: 11100 124 (bin 124)
+10000 16 (bin 31)
+C:  flag=1; corr_zero_index: 63 corr_zero_max: 59; corr_one_index: 3 corr_one_max: 64 curr_index: 60; index_error 0
+G: 11100 60 (bin 60)
+01000 8 (bin 15)
+C:  flag=0; corr_zero_index: 31 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 33 curr_index: 96; index_error 0
+G: 00000 96 (bin 96)
+10100 20 (bin 24)
+C:  flag=0; corr_zero_index: 16 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 47 curr_index: 112; index_error 0
+G: 10000 112 (bin 112)
+10010 18 (bin 28)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 39; corr_one_index: 39 corr_one_max: 64 curr_index: 24; index_error 0
+G: 11000 24 (bin 24)
+00101 5 (bin 6)
+C:  flag=0; corr_zero_index: 19 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 45 curr_index: 108; index_error 0
+G: 01100 108 (bin 108)
+10110 22 (bin 27)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 48; corr_one_index: 15 corr_one_max: 64 curr_index: 48; index_error 0
+G: 10000 48 (bin 48)
+01010 10 (bin 12)
+C:  flag=0; corr_zero_index: 27 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 37 curr_index: 100; index_error 0
+G: 00100 100 (bin 100)
+10101 21 (bin 25)
+--------
+LSB
+[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m
+[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m
+[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[91m1[0m
+[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m
+[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m
+MSB
+--------
+D: 00000000, 10110100, 11101000, 00000000, 11111111, 
+d_index_error: 0; d_number_header: 8
+S: 00000000, 10011001, 11100001, 00000000, 11111111, 
+W: 00000000, 10011001, 11100001, 00000000, 11111111, 00000000, 
+F: 00000100, 10000000, 11110000, 
+LEN: 4 (16 symbols)
+C:  flag=0; corr_zero_index: 43 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 43 curr_index: 84; index_error 0
+G: 1010100 84 (bin 84)
+1111110 126 (bin 84)
+C:  flag=0; corr_zero_index: 56 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 56 curr_index: 71; index_error 0
+G: 1000111 71 (bin 71)
+1100100 100 (bin 71)
+C:  flag=0; corr_zero_index: 34 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 33 curr_index: 94; index_error 0
+G: 1011110 94 (bin 94)
+1110001 113 (bin 94)
+C:  flag=0; corr_zero_index: 42 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 42 curr_index: 85; index_error 0
+G: 1010101 85 (bin 85)
+1111111 127 (bin 85)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 58; corr_one_index: 58 corr_one_max: 64 curr_index: 5; index_error 0
+G: 0000101 5 (bin 5)
+0000111 7 (bin 5)
+C:  flag=0; corr_zero_index: 5 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 58 curr_index: 122; index_error 0
+G: 1111010 122 (bin 122)
+1000111 71 (bin 122)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 34; corr_one_index: 34 corr_one_max: 63 curr_index: 30; index_error 0
+G: 0011110 30 (bin 30)
+0010001 17 (bin 30)
+C:  flag=0; corr_zero_index: 4 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 59 curr_index: 123; index_error 0
+G: 1111011 123 (bin 123)
+1000110 70 (bin 123)
+--------
+LSB
+[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m[1m[95m1[0m[1m[96m1[0m[1m[97m1[0m[1m[91m1[0m[1m[92m0[0m
+[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m
+[1m[94m1[0m[1m[95m1[0m[1m[96m0[0m[1m[97m1[0m[1m[91m1[0m[1m[92m1[0m[1m[93m0[0m[1m[94m1[0m
+[1m[95m1[0m[1m[96m0[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m
+[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m1[0m[1m[93m0[0m[1m[94m0[0m[1m[95m1[0m[1m[96m0[0m
+[1m[97m1[0m[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m0[0m[1m[97m0[0m
+[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m
+MSB
+--------
+D: 00101110, 10001101, 10001101, 01001011, 00111001, 00111001, 11111111, 
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 62; corr_one_index: 62 corr_one_max: 64 curr_index: 1; index_error 0
+G: 0000001 1 (bin 1)
+0000001 1 (bin 1)
+C:  flag=0; corr_zero_index: 42 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 42 curr_index: 85; index_error 0
+G: 1010101 85 (bin 85)
+1111111 127 (bin 85)
+C:  flag=0; corr_zero_index: 54 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 53 curr_index: 74; index_error 0
+G: 1001010 74 (bin 74)
+1101111 111 (bin 74)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 62; corr_one_index: 3 corr_one_max: 63 curr_index: 61; index_error 0
+G: 0111101 61 (bin 61)
+0100011 35 (bin 61)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 55; corr_one_index: 55 corr_one_max: 64 curr_index: 8; index_error 0
+G: 0001000 8 (bin 8)
+0001100 12 (bin 8)
+C:  flag=0; corr_zero_index: 51 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 51 curr_index: 76; index_error 0
+G: 1001100 76 (bin 76)
+1101010 106 (bin 76)
+C:  flag=0; corr_zero_index: 15 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 49 curr_index: 113; index_error 0
+G: 1110001 113 (bin 113)
+1001001 73 (bin 113)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 57; corr_one_index: 7 corr_one_max: 64 curr_index: 56; index_error 0
+G: 0111000 56 (bin 56)
+0100100 36 (bin 56)
+--------
+LSB
+[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m1[0m[1m[96m0[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m
+[1m[93m0[0m[1m[94m1[0m[1m[95m1[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m
+[1m[94m0[0m[1m[95m1[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m
+[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m0[0m[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m
+[1m[96m0[0m[1m[97m1[0m[1m[91m0[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[96m0[0m
+[1m[97m0[0m[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m1[0m[1m[96m0[0m[1m[97m1[0m
+[1m[91m0[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m0[0m
+MSB
+--------
+D: 00010111, 00101110, 11000110, 00101110, 00101110, 11000110, 01110010, 
+S: 00101101, 10101010, 10101010, 01100110, 00110011, 00110011, 11111111, 00011110, 00101101, 11001100, 00101101, 00101101, 11001100, 01010101, 
+W: 11010010, 01010101, 10000111, 10011001, 01001011, 11001100, 00011110, 11100001, 00101101, 00110011, 11111111, 00000000, 10011001, 00101101, 
+F: 00100001, 01000011, 01100101, 10000111, 10011110, 00001111, 11100100, 
+Ca: 0.987236
+Cd: -0.00955971
+C:  flag=1; corr_zero_index: 51 corr_zero_max: 24; corr_one_index: 7 corr_one_max: 46 curr_index: 69; index_error 0
+S: 1000101 69 (bin 69)
+Cd: 0.0093969
+C:  flag=1; corr_zero_index: 52 corr_zero_max: 27; corr_one_index: 0 corr_one_max: 45 curr_index: 82; index_error 0
+S: 1010010 82 (bin 82)
+Cd: 0.00170413
+C:  flag=1; corr_zero_index: 10 corr_zero_max: 20; corr_one_index: 58 corr_one_max: 50 curr_index: 18; index_error 0
+S: 0010010 18 (bin 18)
+Cd: -0.00165962
+C:  flag=1; corr_zero_index: 60 corr_zero_max: 25; corr_one_index: 1 corr_one_max: 46 curr_index: 74; index_error 0
+S: 1001010 74 (bin 74)
+Cd: 0.00507678
+C:  flag=1; corr_zero_index: 33 corr_zero_max: 26; corr_one_index: 4 corr_one_max: 44 curr_index: 78; index_error 0
+S: 1001110 78 (bin 78)
+Lost sync
+Ca: 0.958878
+Cd: -0.0146201
+C:  flag=1; corr_zero_index: 1 corr_zero_max: 20; corr_one_index: 59 corr_one_max: 50 curr_index: 12; index_error 0
+S: 0001100 12 (bin 12)
+Cd: -0.000560382
+C:  flag=1; corr_zero_index: 38 corr_zero_max: 26; corr_one_index: 15 corr_one_max: 45 curr_index: 66; index_error 0
+S: 1000010 66 (bin 66)
+Cd: -0.000807754
+C:  flag=1; corr_zero_index: 13 corr_zero_max: 26; corr_one_index: 64 corr_one_max: 48 curr_index: 15; index_error 0
+S: 0001111 15 (bin 15)
+Cd: 0.00436372
+C:  flag=1; corr_zero_index: 63 corr_zero_max: 25; corr_one_index: 10 corr_one_max: 46 curr_index: 70; index_error 0
+S: 1000110 70 (bin 70)
+Cd: -0.00157569
+C:  flag=1; corr_zero_index: 31 corr_zero_max: 22; corr_one_index: 43 corr_one_max: 46 curr_index: 37; index_error 0
+S: 0100101 37 (bin 37)
+Lost sync
+Ca: 0.908037
+Cd: -0.00612421
+C:  flag=1; corr_zero_index: 43 corr_zero_max: 25; corr_one_index: 2 corr_one_max: 46 curr_index: 76; index_error 0
+S: 1001100 76 (bin 76)
+Cd: 0.00407154
+C:  flag=1; corr_zero_index: 27 corr_zero_max: 24; corr_one_index: 21 corr_one_max: 44 curr_index: 62; index_error 0
+S: 0111110 62 (bin 62)
+Cd: 0.000555087
+C:  flag=1; corr_zero_index: 4 corr_zero_max: 23; corr_one_index: 46 corr_one_max: 46 curr_index: 35; index_error 0
+S: 0100011 35 (bin 35)
+Cd: 0.0111236
+C:  flag=1; corr_zero_index: 52 corr_zero_max: 28; corr_one_index: 20 corr_one_max: 41 curr_index: 66; index_error 0
+S: 1000010 66 (bin 66)
+Cd: -0.000673998
+C:  flag=1; corr_zero_index: 33 corr_zero_max: 26; corr_one_index: 0 corr_one_max: 45 curr_index: 81; index_error 0
+S: 1010001 81 (bin 81)
+Lost sync
+Ca: 0.999812
+Cd: -0.994461
+C:  flag=0; corr_zero_index: 1 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 63 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994443
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.99449
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994495
+C:  flag=0; corr_zero_index: 1 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 63 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994613
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994494
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994909
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.0824659
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 40; corr_one_index: 40 corr_one_max: 64 curr_index: 23; index_error 0
+S: 0010111 23 (bin 23)
+Cd: 0.115763
+C:  flag=1; corr_zero_index: 32 corr_zero_max: 32; corr_one_index: 32 corr_one_max: 64 curr_index: 31; index_error 0
+S: 0011111 31 (bin 31)
+Cd: 0.99613
+SYNC: 0.99613
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 63; corr_one_index: 1 corr_one_max: 64 curr_index: 62; index_error 0
+S: 0111110 62 (bin 62)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 63; corr_one_index: 1 corr_one_max: 64 curr_index: 62; index_error 0
+S: 0111110 62 (bin 62)
+C:  flag=0; corr_zero_index: 3 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 61 curr_index: 124; index_error 0
+G: 11100 124 (bin 124)
+10000 16 (bin 31)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 60; corr_one_index: 3 corr_one_max: 64 curr_index: 60; index_error 0
+G: 11100 60 (bin 60)
+01000 8 (bin 15)
+C:  flag=0; corr_zero_index: 31 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 33 curr_index: 96; index_error 0
+G: 00000 96 (bin 96)
+10100 20 (bin 24)
+C:  flag=0; corr_zero_index: 15 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 48 curr_index: 112; index_error 0
+G: 10000 112 (bin 112)
+10010 18 (bin 28)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 39; corr_one_index: 39 corr_one_max: 64 curr_index: 24; index_error 0
+G: 11000 24 (bin 24)
+00101 5 (bin 6)
+C:  flag=0; corr_zero_index: 19 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 44 curr_index: 108; index_error 0
+G: 01100 108 (bin 108)
+10110 22 (bin 27)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 48; corr_one_index: 15 corr_one_max: 64 curr_index: 48; index_error 0
+G: 10000 48 (bin 48)
+01010 10 (bin 12)
+C:  flag=0; corr_zero_index: 27 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 37 curr_index: 100; index_error 0
+G: 00100 100 (bin 100)
+10101 21 (bin 25)
+--------
+LSB
+[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m
+[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m
+[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[91m1[0m
+[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m
+[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m
+MSB
+--------
+D: 00000000, 10110100, 11101000, 00000000, 11111111, 
+d_index_error: 0; d_number_header: 8
+S: 00000000, 10011001, 11100001, 00000000, 11111111, 
+W: 00000000, 10011001, 11100001, 00000000, 11111111, 00000000, 
+F: 00000100, 10000000, 11110000, 
+LEN: 4 (16 symbols)
+C:  flag=0; corr_zero_index: 44 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 43 curr_index: 84; index_error 0
+G: 1010100 84 (bin 84)
+1111110 126 (bin 84)
+C:  flag=0; corr_zero_index: 57 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 56 curr_index: 71; index_error 0
+G: 1000111 71 (bin 71)
+1100100 100 (bin 71)
+C:  flag=0; corr_zero_index: 33 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 33 curr_index: 94; index_error 0
+G: 1011110 94 (bin 94)
+1110001 113 (bin 94)
+C:  flag=0; corr_zero_index: 42 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 42 curr_index: 85; index_error 0
+G: 1010101 85 (bin 85)
+1111111 127 (bin 85)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 58; corr_one_index: 58 corr_one_max: 64 curr_index: 5; index_error 0
+G: 0000101 5 (bin 5)
+0000111 7 (bin 5)
+C:  flag=0; corr_zero_index: 5 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 58 curr_index: 122; index_error 0
+G: 1111010 122 (bin 122)
+1000111 71 (bin 122)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 33; corr_one_index: 33 corr_one_max: 64 curr_index: 30; index_error 0
+G: 0011110 30 (bin 30)
+0010001 17 (bin 30)
+C:  flag=0; corr_zero_index: 4 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 59 curr_index: 123; index_error 0
+G: 1111011 123 (bin 123)
+1000110 70 (bin 123)
+--------
+LSB
+[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m[1m[95m1[0m[1m[96m1[0m[1m[97m1[0m[1m[91m1[0m[1m[92m0[0m
+[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m
+[1m[94m1[0m[1m[95m1[0m[1m[96m0[0m[1m[97m1[0m[1m[91m1[0m[1m[92m1[0m[1m[93m0[0m[1m[94m1[0m
+[1m[95m1[0m[1m[96m0[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m
+[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m1[0m[1m[93m0[0m[1m[94m0[0m[1m[95m1[0m[1m[96m0[0m
+[1m[97m1[0m[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m0[0m[1m[97m0[0m
+[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m
+MSB
+--------
+D: 00101110, 10001101, 10001101, 01001011, 00111001, 00111001, 11111111, 
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 63; corr_one_index: 63 corr_one_max: 63 curr_index: 1; index_error 0
+G: 0000001 1 (bin 1)
+0000001 1 (bin 1)
+C:  flag=0; corr_zero_index: 42 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 42 curr_index: 85; index_error 0
+G: 1010101 85 (bin 85)
+1111111 127 (bin 85)
+C:  flag=0; corr_zero_index: 54 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 53 curr_index: 74; index_error 0
+G: 1001010 74 (bin 74)
+1101111 111 (bin 74)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 62; corr_one_index: 3 corr_one_max: 63 curr_index: 61; index_error 0
+G: 0111101 61 (bin 61)
+0100011 35 (bin 61)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 56; corr_one_index: 56 corr_one_max: 63 curr_index: 8; index_error 0
+G: 0001000 8 (bin 8)
+0001100 12 (bin 8)
+C:  flag=0; corr_zero_index: 52 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 51 curr_index: 76; index_error 0
+G: 1001100 76 (bin 76)
+1101010 106 (bin 76)
+C:  flag=0; corr_zero_index: 15 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 49 curr_index: 113; index_error 0
+G: 1110001 113 (bin 113)
+1001001 73 (bin 113)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 57; corr_one_index: 7 corr_one_max: 64 curr_index: 56; index_error 0
+G: 0111000 56 (bin 56)
+0100100 36 (bin 56)
+--------
+LSB
+[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m1[0m[1m[96m0[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m
+[1m[93m0[0m[1m[94m1[0m[1m[95m1[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m
+[1m[94m0[0m[1m[95m1[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m
+[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m0[0m[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m
+[1m[96m0[0m[1m[97m1[0m[1m[91m0[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[96m0[0m
+[1m[97m0[0m[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m1[0m[1m[96m0[0m[1m[97m1[0m
+[1m[91m0[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m0[0m
+MSB
+--------
+D: 00010111, 00101110, 11000110, 00101110, 00101110, 11000110, 01110010, 
+S: 00101101, 10101010, 10101010, 01100110, 00110011, 00110011, 11111111, 00011110, 00101101, 11001100, 00101101, 00101101, 11001100, 01010101, 
+W: 11010010, 01010101, 10000111, 10011001, 01001011, 11001100, 00011110, 11100001, 00101101, 00110011, 11111111, 00000000, 10011001, 00101101, 
+F: 00100001, 01000011, 01100101, 10000111, 10011110, 00001111, 11100100, 
+Ca: 0.988635
+Cd: -0.0205527
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 24; corr_one_index: 44 corr_one_max: 48 curr_index: 35; index_error 0
+S: 0100011 35 (bin 35)
+Cd: -0.0055967
+C:  flag=1; corr_zero_index: 2 corr_zero_max: 24; corr_one_index: 64 corr_one_max: 51 curr_index: 12; index_error 0
+S: 0001100 12 (bin 12)
+Cd: -0.000406817
+C:  flag=1; corr_zero_index: 8 corr_zero_max: 23; corr_one_index: 51 corr_one_max: 47 curr_index: 28; index_error 0
+S: 0011100 28 (bin 28)
+Cd: 0.00128635
+C:  flag=1; corr_zero_index: 36 corr_zero_max: 23; corr_one_index: 1 corr_one_max: 49 curr_index: 74; index_error 0
+S: 1001010 74 (bin 74)
+Cd: -0.000307107
+C:  flag=1; corr_zero_index: 51 corr_zero_max: 25; corr_one_index: 4 corr_one_max: 48 curr_index: 75; index_error 0
+S: 1001011 75 (bin 75)
+Lost sync
+Ca: 0.961074
+Cd: -0.00697308
+C:  flag=1; corr_zero_index: 28 corr_zero_max: 24; corr_one_index: 14 corr_one_max: 45 curr_index: 67; index_error 0
+S: 1000011 67 (bin 67)
+Cd: -0.00128916
+C:  flag=1; corr_zero_index: 15 corr_zero_max: 22; corr_one_index: 64 corr_one_max: 49 curr_index: 13; index_error 0
+S: 0001101 13 (bin 13)
+Cd: 0.000112034
+C:  flag=1; corr_zero_index: 11 corr_zero_max: 32; corr_one_index: 64 corr_one_max: 47 curr_index: 13; index_error 0
+S: 0001101 13 (bin 13)
+Cd: 0.00164328
+C:  flag=1; corr_zero_index: 42 corr_zero_max: 24; corr_one_index: 10 corr_one_max: 47 curr_index: 68; index_error 0
+S: 1000100 68 (bin 68)
+Cd: 0.00138556
+C:  flag=1; corr_zero_index: 56 corr_zero_max: 22; corr_one_index: 35 corr_one_max: 46 curr_index: 46; index_error 0
+S: 0101110 46 (bin 46)
+Lost sync
+Ca: 0.903805
+Cd: -0.00634073
+C:  flag=1; corr_zero_index: 20 corr_zero_max: 20; corr_one_index: 35 corr_one_max: 48 curr_index: 40; index_error 0
+S: 0101000 40 (bin 40)
+Cd: 0.00141109
+C:  flag=1; corr_zero_index: 57 corr_zero_max: 29; corr_one_index: 2 corr_one_max: 42 curr_index: 81; index_error 0
+S: 1010001 81 (bin 81)
+Cd: 0.00171379
+C:  flag=1; corr_zero_index: 18 corr_zero_max: 21; corr_one_index: 42 corr_one_max: 48 curr_index: 35; index_error 0
+S: 0100011 35 (bin 35)
+Cd: -0.0380429
+C:  flag=1; corr_zero_index: 23 corr_zero_max: 24; corr_one_index: 62 corr_one_max: 49 curr_index: 12; index_error 0
+S: 0001100 12 (bin 12)
+Cd: -0.00555631
+C:  flag=1; corr_zero_index: 7 corr_zero_max: 23; corr_one_index: 33 corr_one_max: 50 curr_index: 37; index_error 0
+S: 0100101 37 (bin 37)
+Lost sync
+Ca: 0.998502
+Cd: -0.994462
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994458
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994459
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994572
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994598
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994614
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.995107
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.082213
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 40; corr_one_index: 40 corr_one_max: 64 curr_index: 23; index_error 0
+S: 0010111 23 (bin 23)
+Cd: 0.115883
+C:  flag=1; corr_zero_index: 32 corr_zero_max: 32; corr_one_index: 32 corr_one_max: 64 curr_index: 31; index_error 0
+S: 0011111 31 (bin 31)
+Cd: 0.996044
+SYNC: 0.996044
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 63; corr_one_index: 1 corr_one_max: 64 curr_index: 62; index_error 0
+S: 0111110 62 (bin 62)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 63; corr_one_index: 1 corr_one_max: 64 curr_index: 62; index_error 0
+S: 0111110 62 (bin 62)
+C:  flag=0; corr_zero_index: 3 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 61 curr_index: 124; index_error 0
+G: 11100 124 (bin 124)
+10000 16 (bin 31)
+C:  flag=1; corr_zero_index: 63 corr_zero_max: 59; corr_one_index: 3 corr_one_max: 64 curr_index: 60; index_error 0
+G: 11100 60 (bin 60)
+01000 8 (bin 15)
+C:  flag=0; corr_zero_index: 31 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 33 curr_index: 96; index_error 0
+G: 00000 96 (bin 96)
+10100 20 (bin 24)
+C:  flag=0; corr_zero_index: 15 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 48 curr_index: 112; index_error 0
+G: 10000 112 (bin 112)
+10010 18 (bin 28)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 39; corr_one_index: 39 corr_one_max: 64 curr_index: 24; index_error 0
+G: 11000 24 (bin 24)
+00101 5 (bin 6)
+C:  flag=0; corr_zero_index: 19 corr_zero_max: 63; corr_one_index: 64 corr_one_max: 44 curr_index: 108; index_error 0
+G: 01100 108 (bin 108)
+10110 22 (bin 27)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 48; corr_one_index: 15 corr_one_max: 64 curr_index: 48; index_error 0
+G: 10000 48 (bin 48)
+01010 10 (bin 12)
+C:  flag=0; corr_zero_index: 27 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 37 curr_index: 100; index_error 0
+G: 00100 100 (bin 100)
+10101 21 (bin 25)
+--------
+LSB
+[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m
+[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m
+[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[91m1[0m
+[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m
+[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m
+MSB
+--------
+D: 00000000, 10110100, 11101000, 00000000, 11111111, 
+d_index_error: 0; d_number_header: 8
+S: 00000000, 10011001, 11100001, 00000000, 11111111, 
+W: 00000000, 10011001, 11100001, 00000000, 11111111, 00000000, 
+F: 00000100, 10000000, 11110000, 
+LEN: 4 (16 symbols)
+C:  flag=0; corr_zero_index: 43 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 43 curr_index: 84; index_error 0
+G: 1010100 84 (bin 84)
+1111110 126 (bin 84)
+C:  flag=0; corr_zero_index: 57 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 56 curr_index: 71; index_error 0
+G: 1000111 71 (bin 71)
+1100100 100 (bin 71)
+C:  flag=0; corr_zero_index: 34 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 33 curr_index: 94; index_error 0
+G: 1011110 94 (bin 94)
+1110001 113 (bin 94)
+C:  flag=0; corr_zero_index: 42 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 42 curr_index: 85; index_error 0
+G: 1010101 85 (bin 85)
+1111111 127 (bin 85)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 59; corr_one_index: 59 corr_one_max: 63 curr_index: 5; index_error 0
+G: 0000101 5 (bin 5)
+0000111 7 (bin 5)
+C:  flag=0; corr_zero_index: 6 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 57 curr_index: 122; index_error 0
+G: 1111010 122 (bin 122)
+1000111 71 (bin 122)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 33; corr_one_index: 33 corr_one_max: 64 curr_index: 30; index_error 0
+G: 0011110 30 (bin 30)
+0010001 17 (bin 30)
+C:  flag=0; corr_zero_index: 4 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 59 curr_index: 123; index_error 0
+G: 1111011 123 (bin 123)
+1000110 70 (bin 123)
+--------
+LSB
+[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m[1m[95m1[0m[1m[96m1[0m[1m[97m1[0m[1m[91m1[0m[1m[92m0[0m
+[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m
+[1m[94m1[0m[1m[95m1[0m[1m[96m0[0m[1m[97m1[0m[1m[91m1[0m[1m[92m1[0m[1m[93m0[0m[1m[94m1[0m
+[1m[95m1[0m[1m[96m0[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m
+[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m1[0m[1m[93m0[0m[1m[94m0[0m[1m[95m1[0m[1m[96m0[0m
+[1m[97m1[0m[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m0[0m[1m[97m0[0m
+[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m
+MSB
+--------
+D: 00101110, 10001101, 10001101, 01001011, 00111001, 00111001, 11111111, 
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 62; corr_one_index: 62 corr_one_max: 64 curr_index: 1; index_error 0
+G: 0000001 1 (bin 1)
+0000001 1 (bin 1)
+C:  flag=0; corr_zero_index: 42 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 42 curr_index: 85; index_error 0
+G: 1010101 85 (bin 85)
+1111111 127 (bin 85)
+C:  flag=0; corr_zero_index: 53 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 53 curr_index: 74; index_error 0
+G: 1001010 74 (bin 74)
+1101111 111 (bin 74)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 62; corr_one_index: 3 corr_one_max: 63 curr_index: 61; index_error 0
+G: 0111101 61 (bin 61)
+0100011 35 (bin 61)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 56; corr_one_index: 56 corr_one_max: 63 curr_index: 8; index_error 0
+G: 0001000 8 (bin 8)
+0001100 12 (bin 8)
+C:  flag=0; corr_zero_index: 52 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 51 curr_index: 76; index_error 0
+G: 1001100 76 (bin 76)
+1101010 106 (bin 76)
+C:  flag=0; corr_zero_index: 15 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 49 curr_index: 113; index_error 0
+G: 1110001 113 (bin 113)
+1001001 73 (bin 113)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 57; corr_one_index: 7 corr_one_max: 64 curr_index: 56; index_error 0
+G: 0111000 56 (bin 56)
+0100100 36 (bin 56)
+--------
+LSB
+[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m1[0m[1m[96m0[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m
+[1m[93m0[0m[1m[94m1[0m[1m[95m1[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m
+[1m[94m0[0m[1m[95m1[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m
+[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m0[0m[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m
+[1m[96m0[0m[1m[97m1[0m[1m[91m0[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[96m0[0m
+[1m[97m0[0m[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m1[0m[1m[96m0[0m[1m[97m1[0m
+[1m[91m0[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m0[0m
+MSB
+--------
+D: 00010111, 00101110, 11000110, 00101110, 00101110, 11000110, 01110010, 
+S: 00101101, 10101010, 10101010, 01100110, 00110011, 00110011, 11111111, 00011110, 00101101, 11001100, 00101101, 00101101, 11001100, 01010101, 
+W: 11010010, 01010101, 10000111, 10011001, 01001011, 11001100, 00011110, 11100001, 00101101, 00110011, 11111111, 00000000, 10011001, 00101101, 
+F: 00100001, 01000011, 01100101, 10000111, 10011110, 00001111, 11100100, 
+Ca: 0.990447
+Cd: -0.00588198
+C:  flag=1; corr_zero_index: 27 corr_zero_max: 23; corr_one_index: 4 corr_one_max: 46 curr_index: 77; index_error 0
+S: 1001101 77 (bin 77)
+Cd: -0.00246597
+C:  flag=1; corr_zero_index: 30 corr_zero_max: 21; corr_one_index: 9 corr_one_max: 49 curr_index: 69; index_error 0
+S: 1000101 69 (bin 69)
+Cd: -0.00371434
+C:  flag=1; corr_zero_index: 11 corr_zero_max: 17; corr_one_index: 29 corr_one_max: 51 curr_index: 43; index_error 0
+S: 0101011 43 (bin 43)
+Cd: 0.000123973
+C:  flag=1; corr_zero_index: 55 corr_zero_max: 21; corr_one_index: 13 corr_one_max: 48 curr_index: 66; index_error 0
+S: 1000010 66 (bin 66)
+Cd: -0.00302055
+C:  flag=1; corr_zero_index: 25 corr_zero_max: 23; corr_one_index: 62 corr_one_max: 49 curr_index: 16; index_error 0
+S: 0010000 16 (bin 16)
+Lost sync
+Ca: 0.972184
+Cd: -0.00681794
+C:  flag=1; corr_zero_index: 51 corr_zero_max: 22; corr_one_index: 1 corr_one_max: 50 curr_index: 74; index_error 0
+S: 1001010 74 (bin 74)
+Cd: 0.00326556
+C:  flag=1; corr_zero_index: 48 corr_zero_max: 24; corr_one_index: 32 corr_one_max: 46 curr_index: 46; index_error 0
+S: 0101110 46 (bin 46)
+Cd: -0.000243685
+C:  flag=1; corr_zero_index: 15 corr_zero_max: 23; corr_one_index: 45 corr_one_max: 48 curr_index: 32; index_error 0
+S: 0100000 32 (bin 32)
+Cd: 0.00246698
+C:  flag=1; corr_zero_index: 33 corr_zero_max: 27; corr_one_index: 57 corr_one_max: 43 curr_index: 19; index_error 0
+S: 0010011 19 (bin 19)
+Cd: 0.0030854
+C:  flag=1; corr_zero_index: 45 corr_zero_max: 22; corr_one_index: 13 corr_one_max: 47 curr_index: 65; index_error 0
+S: 1000001 65 (bin 65)
+Lost sync
+Ca: 0.907872
+Cd: -0.0300261
+C:  flag=1; corr_zero_index: 34 corr_zero_max: 22; corr_one_index: 41 corr_one_max: 47 curr_index: 35; index_error 0
+S: 0100011 35 (bin 35)
+Cd: -0.000795932
+C:  flag=1; corr_zero_index: 3 corr_zero_max: 19; corr_one_index: 43 corr_one_max: 51 curr_index: 32; index_error 0
+S: 0100000 32 (bin 32)
+Cd: -0.0019244
+C:  flag=1; corr_zero_index: 20 corr_zero_max: 27; corr_one_index: 63 corr_one_max: 45 curr_index: 11; index_error 0
+S: 0001011 11 (bin 11)
+Cd: 0.000701891
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 31; corr_one_index: 31 corr_one_max: 43 curr_index: 53; index_error 0
+S: 0110101 53 (bin 53)
+Cd: -0.0157927
+C:  flag=1; corr_zero_index: 17 corr_zero_max: 22; corr_one_index: 54 corr_one_max: 48 curr_index: 25; index_error 0
+S: 0011001 25 (bin 25)
+Lost sync
+Ca: 0.999774
+Cd: -0.994305
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994404
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994519
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994416
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994622
+C:  flag=0; corr_zero_index: 1 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 63 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.994494
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.995101
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 64 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.0823213
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 40; corr_one_index: 40 corr_one_max: 64 curr_index: 23; index_error 0
+S: 0010111 23 (bin 23)
+Cd: 0.116052
+C:  flag=1; corr_zero_index: 32 corr_zero_max: 32; corr_one_index: 32 corr_one_max: 64 curr_index: 31; index_error 0
+S: 0011111 31 (bin 31)
+Cd: 0.996114
+SYNC: 0.996114
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 64 curr_index: 63; index_error 0
+S: 0111111 63 (bin 63)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 64 curr_index: 63; index_error 0
+S: 0111111 63 (bin 63)
+C:  flag=0; corr_zero_index: 3 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 61 curr_index: 124; index_error 0
+G: 11100 124 (bin 124)
+10000 16 (bin 31)
+C:  flag=1; corr_zero_index: 63 corr_zero_max: 59; corr_one_index: 3 corr_one_max: 64 curr_index: 60; index_error 0
+G: 11100 60 (bin 60)
+01000 8 (bin 15)
+C:  flag=0; corr_zero_index: 31 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 33 curr_index: 96; index_error 0
+G: 00000 96 (bin 96)
+10100 20 (bin 24)
+C:  flag=0; corr_zero_index: 15 corr_zero_max: 63; corr_one_index: 64 corr_one_max: 48 curr_index: 112; index_error 0
+G: 10000 112 (bin 112)
+10010 18 (bin 28)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 39; corr_one_index: 39 corr_one_max: 64 curr_index: 24; index_error 0
+G: 11000 24 (bin 24)
+00101 5 (bin 6)
+C:  flag=0; corr_zero_index: 19 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 45 curr_index: 108; index_error 0
+G: 01100 108 (bin 108)
+10110 22 (bin 27)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 48; corr_one_index: 15 corr_one_max: 64 curr_index: 48; index_error 0
+G: 10000 48 (bin 48)
+01010 10 (bin 12)
+C:  flag=0; corr_zero_index: 28 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 36 curr_index: 100; index_error 0
+G: 00100 100 (bin 100)
+10101 21 (bin 25)
+--------
+LSB
+[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m
+[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m
+[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[91m1[0m
+[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m
+[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m
+MSB
+--------
+D: 00000000, 10110100, 11101000, 00000000, 11111111, 
+d_index_error: 0; d_number_header: 8
+S: 00000000, 10011001, 11100001, 00000000, 11111111, 
+W: 00000000, 10011001, 11100001, 00000000, 11111111, 00000000, 
+F: 00000100, 10000000, 11110000, 
+LEN: 4 (16 symbols)
+C:  flag=0; corr_zero_index: 43 corr_zero_max: 63; corr_one_index: 0 corr_one_max: 43 curr_index: 84; index_error 0
+G: 1010100 84 (bin 84)
+1111110 126 (bin 84)
+C:  flag=0; corr_zero_index: 56 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 56 curr_index: 71; index_error 0
+G: 1000111 71 (bin 71)
+1100100 100 (bin 71)
+C:  flag=0; corr_zero_index: 33 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 33 curr_index: 94; index_error 0
+G: 1011110 94 (bin 94)
+1110001 113 (bin 94)
+C:  flag=0; corr_zero_index: 42 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 42 curr_index: 85; index_error 0
+G: 1010101 85 (bin 85)
+1111111 127 (bin 85)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 58; corr_one_index: 58 corr_one_max: 64 curr_index: 5; index_error 0
+G: 0000101 5 (bin 5)
+0000111 7 (bin 5)
+C:  flag=0; corr_zero_index: 5 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 58 curr_index: 122; index_error 0
+G: 1111010 122 (bin 122)
+1000111 71 (bin 122)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 34; corr_one_index: 34 corr_one_max: 63 curr_index: 30; index_error 0
+G: 0011110 30 (bin 30)
+0010001 17 (bin 30)
+C:  flag=0; corr_zero_index: 4 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 59 curr_index: 123; index_error 0
+G: 1111011 123 (bin 123)
+1000110 70 (bin 123)
+--------
+LSB
+[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m[1m[95m1[0m[1m[96m1[0m[1m[97m1[0m[1m[91m1[0m[1m[92m0[0m
+[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m1[0m[1m[92m0[0m[1m[93m1[0m
+[1m[94m1[0m[1m[95m1[0m[1m[96m0[0m[1m[97m1[0m[1m[91m1[0m[1m[92m1[0m[1m[93m0[0m[1m[94m1[0m
+[1m[95m1[0m[1m[96m0[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m
+[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m1[0m[1m[93m0[0m[1m[94m0[0m[1m[95m1[0m[1m[96m0[0m
+[1m[97m1[0m[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m0[0m[1m[97m0[0m
+[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m
+MSB
+--------
+D: 00101110, 10001101, 10001101, 01001011, 00111001, 00111001, 11111111, 
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 62; corr_one_index: 62 corr_one_max: 64 curr_index: 1; index_error 0
+G: 0000001 1 (bin 1)
+0000001 1 (bin 1)
+C:  flag=0; corr_zero_index: 42 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 42 curr_index: 85; index_error 0
+G: 1010101 85 (bin 85)
+1111111 127 (bin 85)
+C:  flag=0; corr_zero_index: 53 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 53 curr_index: 74; index_error 0
+G: 1001010 74 (bin 74)
+1101111 111 (bin 74)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 62; corr_one_index: 3 corr_one_max: 63 curr_index: 61; index_error 0
+G: 0111101 61 (bin 61)
+0100011 35 (bin 61)
+C:  flag=1; corr_zero_index: 0 corr_zero_max: 55; corr_one_index: 55 corr_one_max: 64 curr_index: 8; index_error 0
+G: 0001000 8 (bin 8)
+0001100 12 (bin 8)
+C:  flag=0; corr_zero_index: 52 corr_zero_max: 64; corr_one_index: 0 corr_one_max: 51 curr_index: 76; index_error 0
+G: 1001100 76 (bin 76)
+1101010 106 (bin 76)
+C:  flag=0; corr_zero_index: 14 corr_zero_max: 64; corr_one_index: 64 corr_one_max: 50 curr_index: 113; index_error 0
+G: 1110001 113 (bin 113)
+1001001 73 (bin 113)
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 57; corr_one_index: 7 corr_one_max: 64 curr_index: 56; index_error 0
+G: 0111000 56 (bin 56)
+0100100 36 (bin 56)
+--------
+LSB
+[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m1[0m[1m[96m0[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m
+[1m[93m0[0m[1m[94m1[0m[1m[95m1[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m
+[1m[94m0[0m[1m[95m1[0m[1m[96m1[0m[1m[97m0[0m[1m[91m1[0m[1m[92m0[0m[1m[93m0[0m[1m[94m1[0m
+[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m0[0m[1m[92m1[0m[1m[93m1[0m[1m[94m1[0m[1m[95m0[0m
+[1m[96m0[0m[1m[97m1[0m[1m[91m0[0m[1m[92m0[0m[1m[93m0[0m[1m[94m0[0m[1m[95m0[0m[1m[96m0[0m
+[1m[97m0[0m[1m[91m1[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m1[0m[1m[96m0[0m[1m[97m1[0m
+[1m[91m0[0m[1m[92m1[0m[1m[93m1[0m[1m[94m0[0m[1m[95m0[0m[1m[96m1[0m[1m[97m1[0m[1m[91m0[0m
+MSB
+--------
+D: 00010111, 00101110, 11000110, 00101110, 00101110, 11000110, 01110010, 
+S: 00101101, 10101010, 10101010, 01100110, 00110011, 00110011, 11111111, 00011110, 00101101, 11001100, 00101101, 00101101, 11001100, 01010101, 
+W: 11010010, 01010101, 10000111, 10011001, 01001011, 11001100, 00011110, 11100001, 00101101, 00110011, 11111111, 00000000, 10011001, 00101101, 
+F: 00100001, 01000011, 01100101, 10000111, 10011110, 00001111, 11100100, 
+Ca: 0.991181
+Cd: -0.00611144
+C:  flag=1; corr_zero_index: 6 corr_zero_max: 23; corr_one_index: 63 corr_one_max: 47 curr_index: 16; index_error 0
+S: 0010000 16 (bin 16)
+Cd: -0.000582818
+C:  flag=1; corr_zero_index: 40 corr_zero_max: 28; corr_one_index: 3 corr_one_max: 45 curr_index: 79; index_error 0
+S: 1001111 79 (bin 79)
+Cd: -0.00161984
+C:  flag=1; corr_zero_index: 51 corr_zero_max: 21; corr_one_index: 3 corr_one_max: 47 curr_index: 75; index_error 0
+S: 1001011 75 (bin 75)
+Cd: 0.00390788
+C:  flag=1; corr_zero_index: 64 corr_zero_max: 28; corr_one_index: 3 corr_one_max: 46 curr_index: 76; index_error 0
+S: 1001100 76 (bin 76)
+Cd: -0.00134585
+C:  flag=1; corr_zero_index: 51 corr_zero_max: 25; corr_one_index: 7 corr_one_max: 44 curr_index: 74; index_error 0
+S: 1001010 74 (bin 74)
+Lost sync
+Ca: 0.964521
+Cd: -0.00911149
+C:  flag=1; corr_zero_index: 2 corr_zero_max: 21; corr_one_index: 48 corr_one_max: 48 curr_index: 30; index_error 0
+S: 0011110 30 (bin 30)
+Cd: -0.00243636
+C:  flag=1; corr_zero_index: 2 corr_zero_max: 22; corr_one_index: 64 corr_one_max: 55 curr_index: 0; index_error 0
+S: 0000000 0 (bin 0)
+Cd: -0.00134635
+C:  flag=1; corr_zero_index: 20 corr_zero_max: 23; corr_one_index: 64 corr_one_max: 48 curr_index: 15; index_error 0
+S: 0001111 15 (bin 15)
+Cd: -0.00196164
+C:  flag=1; corr_zero_index: 10 corr_zero_max: 21; corr_one_index: 63 corr_one_max: 51 curr_index: 11; index_error 0
+S: 0001011 11 (bin 11)
+Cd: -0.00264268
+C:  flag=1; corr_zero_index: 22 corr_zero_max: 24; corr_one_index: 4 corr_one_max: 45 curr_index: 77; index_error 0
+S: 1001101 77 (bin 77)
+Lost sync
+Ca: 0.918871
+Cd: -0.0366975
+C:  flag=1; corr_zero_index: 48 corr_zero_max: 18; corr_one_index: 5 corr_one_max: 52 curr_index: 65; index_error 0
+S: 1000001 65 (bin 65)
+Cd: -0.00471711
+C:  flag=1; corr_zero_index: 1 corr_zero_max: 20; corr_one_index: 24 corr_one_max: 52 curr_index: 38; index_error 0
+S: 0100110 38 (bin 38)
+Cd: -0.00193223
+C:  flag=1; corr_zero_index: 4 corr_zero_max: 30; corr_one_index: 64 corr_one_max: 47 curr_index: 10; index_error 0
+S: 0001010 10 (bin 10)
+Cd: 0.00130029
+C:  flag=1; corr_zero_index: 59 corr_zero_max: 28; corr_one_index: 0 corr_one_max: 46 curr_index: 79; index_error 0
+S: 1001111 79 (bin 79)
+Cd: -4.9681e-05
+C:  flag=1; corr_zero_index: 27 corr_zero_max: 24; corr_one_index: 56 corr_one_max: 49 curr_index: 20; index_error 0
+S: 0010100 20 (bin 20)
+Lost sync

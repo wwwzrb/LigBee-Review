@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<block>
+  <name>LoBee Receiver</name>
+  <key>lora_lobee_receiver</key>
+  <category>[LoBee]</category>
+  <import>import lora</import>
+  <make>lora.lobee_receiver($samp_rate, $bandwidth, $sf, $implicit, $cr, $crc, $reduced_rate, $disable_drift_correction,$sync_shift,$packet_len,$path)</make>
+  <!-- Make one 'param' node for every Parameter you want settable from the GUI.
+       Sub-nodes:
+       * name
+       * key (makes the value accessible as $keyname, e.g. in the make node)
+       * type -->
+   <param>
+     <name>Sample rate</name>
+     <key>samp_rate</key>
+     <value>1e6</value>
+     <type>float</type>
+   </param>
+
+  <param>
+    <name>Center frequency</name>
+    <key>center_freq</key>
+    <value>868e6</value>
+    <type>float</type>
+  </param>
+
+  <param>
+    <name>Bandwidth</name>
+    <key>bandwidth</key>
+    <value>125000</value>
+    <type>int</type>
+  </param>
+
+  <param>
+    <name>Spreading factor</name>
+    <key>sf</key>
+    <type>int</type>
+  </param>
+
+  <param>
+    <name>Implicit header</name>
+    <key>implicit</key>
+    <type>enum</type>
+    <option>
+        <name>No</name>
+        <key>False</key>
+        <opt>hide_imp:all</opt>
+    </option>
+    <option>
+        <name>Yes</name>
+        <key>True</key>
+        <opt>hide_imp:</opt>
+    </option>
+  </param>
+
+  <param>
+      <name>Coding rate</name>
+      <key>cr</key>
+      <type>enum</type>
+      <hide>$implicit.hide_imp</hide>
+      <option>
+          <name>4/8</name>
+          <key>4</key>
+      </option>
+      <option>
+          <name>4/7</name>
+          <key>3</key>
+      </option>
+      <option>
+          <name>4/6</name>
+          <key>2</key>
+      </option>
+      <option>
+          <name>4/5</name>
+          <key>1</key>
+      </option>
+  </param>
+
+  <param>
+      <name>CRC</name>
+      <key>crc</key>
+      <type>enum</type>
+      <hide>$implicit.hide_imp</hide>
+      <option>
+          <name>Yes</name>
+          <key>True</key>
+      </option>
+      <option>
+          <name>No</name>
+          <key>False</key>
+      </option>
+  </param>
+
+  <param>
+      <name>Reduced rate</name>
+      <key>reduced_rate</key>
+      <type>enum</type>
+      <hide>$implicit.hide_imp</hide>
+      <option>
+          <name>No</name>
+          <key>False</key>
+      </option>
+      <option>
+          <name>Yes</name>
+          <key>True</key>
+      </option>
+  </param>
+
+  <param>
+    <name>Disable drift correction</name>
+    <key>disable_drift_correction</key>
+    <value>False</value>
+    <type>bool</type>
+    <hide>part</hide>
+  </param>
+
+  <param>
+    <name>Sync shift</name>
+    <key>sync_shift</key>
+    <type>int</type>
+  </param>
+
+  <param>
+    <name>Packet Length</name>
+    <key>packet_len</key>
+    <type>int</type>
+  </param>
+
+  <param>
+    <name>Path</name>
+    <key>path</key>
+    <type>string</type>
+  </param>
+
+  <sink>
+    <name>in</name>
+    <type>byte</type>
+  </sink>
+
+  <source>
+    <name>frames</name>
+    <type>message</type>
+    <optional>1</optional>
+  </source>
+</block>

@@ -1,0 +1,11 @@
+analysis/lobee/*
+!analysis/lobee/.gitkeep
+analysis/__pycache__/*
+analysis/.idea/*
+build/*
+data/*
+!data/.gitkeep
+dbgresult/*
+!dbgresult/.gitkeep
+expresult/*
+!expresult/.gitkeep
