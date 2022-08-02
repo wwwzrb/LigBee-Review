@@ -8,10 +8,10 @@ This repo contains the artifact of the LigBee paper, which mainly consists of tw
 
 ## System Specification
 ### Environment
-Our development environment mainly include several laptops running Ubuntu18.04 (for USRP) or  Win10  (for COTS) . 
+Our development environment mainly includes several laptops running Ubuntu18.04 (for USRP) or  Win10  (for COTS) . 
 
 ### Hardware 
-The hardware used include USRP N210 with SBX daughterboard and WSTK6061B plus EFR32FG14 proprietary radio board manufactured by Silicon Labs.
+The hardware used includes USRP N210 with SBX daughterboard and WSTK6061B plus EFR32FG14 proprietary radio board manufactured by Silicon Labs.
 
 ### Software 
 For USRP implementation, we use GNURadio. For COTS implementation, we adopt SimplicityStudio provided by Silicon Labs.
@@ -38,7 +38,7 @@ As a comparison, the standard ZigBee RX works as follows:
 
 
 
-It can be observed that LigBee takes chip sequence as input and output the decoded LoRa packet. The only difference is that LigBee uses `quad-to-byte` to covert phase shift to chip sequence, while ZigBee RX takes phase shift as input directly.
+It can be observed that LigBee takes chip sequence as input and outputs the decoded LoRa packet. The only difference is that LigBee uses `quad-to-byte` to covert phase shift to chip sequence, while ZigBee RX takes phase shift as input and outputs the decoded ZigBee packet.
 
 ### Layout
 ```
@@ -64,7 +64,7 @@ It can be observed that LigBee takes chip sequence as input and output the decod
 ### Running 
 The following dependencies are required: `python2-numpy`, `python2-scipy`, `swig`, `cppunit`, `fftw`, `gnuradio`, `libvolk`, `log4cpp`, `cmake`, `wx`, `UHD`, and [`liquid-dsp`](https://github.com/jgaeddert/liquid-dsp).
 
-One needs to install the above two modules `gr-lobee` and `gr-lobee-encoder` to run the above GRC. The installed module will be shown as following:
+One needs to install the `gr-lobee` and `gr-lobee-encoder` modules  to run the above GRC. The installed module will be shown as following:
 <img src="/figures/usrp/ligbee-module.png" alt="/figures/usrp/ligbee-module.png">
 
 
@@ -74,8 +74,11 @@ Beside, our python script to manipulate LoRa node relies on `python-loranode`.
 ## LigBee-COTS
 
 ### Introduction
-We implement the LigBee module at `online-lib`. Since COTS implementation is device specific, we present LigBee as the simplest lib here.
-We also provide `offline-demo` to show how to incorporate LigBee module using offline Trace. 
+We implement the LigBee module at `online-lib`. 
+
+Since COTS implementation is device specific, we present LigBee as the simplest lib here.
+
+We also provide `offline-demo` to present how to incorporate LigBee module using offline Trace. 
 
 ### Layout
 ```
@@ -111,7 +114,7 @@ Next, we focus on how to incorporate `online-lib` into devices, taking `Simplici
 
 - After that, the implementation of `initializeDecode` and `decodePacket` is required using `online-lib`, which is device specific.
 
-- As per each packet is receiver, the `decodePacket` is invoked to decode LoRa packet from chip sequence.
+- As per each packet is received, the `decodePacket` is invoked to decode LoRa packet from chip sequence.
 
 A demonstration code is shown as below:
 
@@ -149,7 +152,7 @@ The USRP implementation referred to the following repos:
 - Pieter Robyns [gr-lora](https://github.com/rpp0/gr-lora) [python-loranode](https://github.com/rpp0/python-loranode)
 - Matt Knight [gr-lora](https://github.com/BastilleResearch/gr-lora)
 
-Very grateful to the authors of the above repo! Thanks for their great efforts to reverse engineering LoRa and develop effective tools to manipulate COTS LoRa. 
+Very grateful to the authors of the above repos! Thanks for their great efforts to reverse engineering LoRa and develop effective tools to manipulate COTS LoRa. 
 
 We also thank the technique supporters from Silicon Labs, who provide valuable suggestions to our COTS implementation.
 
