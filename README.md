@@ -1,5 +1,5 @@
-# LigBee-Review
-Anonymous repo for the peer review of INFOCOM23. 
+# LigBee
+This repository holds the artifact of the paper "LigBee: Symbol-Level Cross-Technology Communication from LoRa to ZigBee", published on INFOCOM 2023.
 
 ------
 
@@ -8,10 +8,10 @@ This repo contains the artifact of the LigBee paper, which mainly consists of tw
 
 ## System Specification
 ### Environment
-Our development environment mainly includes several laptops running Ubuntu18.04 (for USRP) or  Win10  (for COTS) . 
+Our development environment mainly include several laptops running Ubuntu18.04 (for USRP) or  Win10  (for COTS) . 
 
 ### Hardware 
-The hardware used includes USRP N210 with SBX daughterboard and WSTK6061B plus EFR32FG14 proprietary radio board manufactured by Silicon Labs.
+The hardware used include USRP N210 with SBX daughterboard and WSTK6061B plus EFR32FG14 proprietary radio board manufactured by Silicon Labs.
 
 ### Software 
 For USRP implementation, we use GNURadio. For COTS implementation, we adopt SimplicityStudio provided by Silicon Labs.
@@ -21,30 +21,23 @@ For USRP implementation, we use GNURadio. For COTS implementation, we adopt Simp
 ├── README.md            # Introduction of artifact
 ├── ligbee-usrp          # USRP implementation
 ├── ligbee-cots          # COTS implementation
-└── figures              # Please refer to '/figures' for all figures in README, since anonymous github may not support displaying figures.
+└── figures
 ```
 
 ## LigBee-USRP
 ### Introduction
 We implement the LigBee module at `gr-lobee-encoder`. 
-
-The GNU Radio Companion (GRC) of LigBee is shown below:
-<img src="/figures/usrp/ligbee-rx.png" alt="/figures/usrp/ligbee-rx.png">
-
-
-
+The GNU Radio Companion (GRC) is shown below:
+<img src="/figures/usrp/ligbee-rx.png" alt="ligbee-usrp-rx">
 As a comparison, the standard ZigBee RX works as follows:
-<img src="/figures/usrp/zigbee-rx.png" alt="/figures/usrp/zigbee-rx.png">
-
-
-
-It can be observed that LigBee takes chip sequence as input and outputs the decoded LoRa packet. The only difference is that LigBee uses `quad-to-byte` to covert phase shift to chip sequence, while ZigBee RX takes phase shift as input and outputs the decoded ZigBee packet.
+<img src="/figures/usrp/zigbee-rx.png" alt="ligbee-usrp-rx">
+It can be observed that LigBee takes chip sequence as input and output the decoded LoRa packet. The only difference is that LigBee uses `quad-to-byte` to covert phase shift to chip sequence, while ZigBee RX takes phase shift as input directly.
 
 ### Layout
 ```
 └── ligbee-usrp         
     ├── gr-lobee          # Convert phase shift to chip sequence.
-    │   ├── include/lobee
+    │   ├── include
     │   │   ├── quad_to_byte_fb.h
     │   └── lib
     │       ├── quad_to_byte_fb_impl.h
@@ -53,7 +46,7 @@ It can be observed that LigBee takes chip sequence as input and outputs the deco
     │   ├── analysis      # Python tool for manipulating LoRa node and analyze results.
     │   ├── examples      # GRC with configured parameter for LigBee test.
     |   |   └── rpp0_lorabee_usrp.grc
-    │   ├── include/lora
+    │   ├── include
     │   │   ├── lobee_receiver.h
     │   └── lib
     │       ├── lobee_receiver_impl.h
@@ -64,21 +57,16 @@ It can be observed that LigBee takes chip sequence as input and outputs the deco
 ### Running 
 The following dependencies are required: `python2-numpy`, `python2-scipy`, `swig`, `cppunit`, `fftw`, `gnuradio`, `libvolk`, `log4cpp`, `cmake`, `wx`, `UHD`, and [`liquid-dsp`](https://github.com/jgaeddert/liquid-dsp).
 
-One needs to install the `gr-lobee` and `gr-lobee-encoder` modules  to run the above GRC. The installed module will be shown as following:
-<img src="/figures/usrp/ligbee-module.png" alt="/figures/usrp/ligbee-module.png">
+One needs to install the above two modules `gr-lobee` and `gr-lobee-encoder` to run the above GRC. The installed module will be shown as following:
+<img src="/figures/usrp/ligbee-module.png" alt="ligbee-usrp-module">
 
-
-
-Beside, our python script to manipulate LoRa node relies on `python-loranode`.
+Beside, our python script to manipulate LoRa node relies on the crafted `python-loranode`.
 
 ## LigBee-COTS
 
 ### Introduction
-We implement the LigBee module at `online-lib`. 
-
-Since COTS implementation is device specific, we present LigBee as the simplest lib here.
-
-We also provide `offline-demo` to present how to incorporate LigBee module using offline Trace. 
+We implement the LigBee module at `online-lib`. Since COTS implementation is device specific, we present LigBee as the simplest lib here.
+We also provide `offline-demo` to show how to incorporate LigBee module using offline Trace. 
 
 ### Layout
 ```
@@ -102,19 +90,17 @@ We also provide `offline-demo` to present how to incorporate LigBee module using
 
 ### Running
 
-In the `offline-demo`, we present how `online-lib` decode chip sequence using offline trace.
+In the `offfline-demo`, we present how `online-lib` decode chip sequency using offline trace.
 
 Next, we focus on how to incorporate `online-lib` into devices, taking `SimplicityStudio` and `WSTK6061B` as an example:
 
 - One needs to copy `online-lib` into your project directory and adds `online-lib` to the project compiling list as well:
 
-<img src="/figures/cots/ligbee-module.png" alt="/figures/cots/ligbee-module.png">  
-
-
+<img src="/figures/cots/ligbee-module.png" alt="ligbee-cots-module">  
 
 - After that, the implementation of `initializeDecode` and `decodePacket` is required using `online-lib`, which is device specific.
 
-- As per each packet is received, the `decodePacket` is invoked to decode LoRa packet from chip sequence.
+- As per each packet is receiver, the `decodePacket` is invoked to decode LoRa packet from chip sequence.
 
 A demonstration code is shown as below:
 
@@ -147,16 +133,14 @@ A demonstration code is shown as below:
 
 ## Acknowledgement
 
-The USRP implementation referred to the following repos:
+Very grateful to the authors of the following repos, from which the USRP implementation is developed:
 
 - Pieter Robyns [gr-lora](https://github.com/rpp0/gr-lora) [python-loranode](https://github.com/rpp0/python-loranode)
 - Matt Knight [gr-lora](https://github.com/BastilleResearch/gr-lora)
 
-Very grateful to the authors of the above repos! Thanks for their great efforts to reverse engineering LoRa and develop effective tools to manipulate COTS LoRa. 
+Thanks to their great efforts to develop effective tools to manipulate COTS LoRa and reverse engineering LoRa.
 
 We also thank the technique supporters from Silicon Labs, who provide valuable suggestions to our COTS implementation.
-
-
 
 
 
